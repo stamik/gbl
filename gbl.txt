@@ -39,7 +39,9 @@ assets.xbox.com
 astats.astats.nl
 auth-rgl-prod.ros.rockstargames.com
 auth.api.sonyentertainmentnetwork.com
+auth.gog.com
 auth.riotgames.com
+avatars.akamai.steamstatic.com
 backloggery.com
 barter.vg
 battle.net
@@ -113,6 +115,7 @@ cdn-01-origin.steampowered.com
 cdn-01.steampowered.com
 cdn.akamai.steamstatic.com
 cdn.beta.steampowered.com
+cdn.cloudflare.steamstatic.com
 cdn.discordapp.com
 cdn.steamcommunity.com
 cdn.steampowered.com
@@ -132,6 +135,7 @@ cheapshark.com
 chrono.gg
 cjs-cdkeys.com
 client-download.steampowered.com
+client-update.akamai.steamstatic.com
 clientconfig.akamai.steamstatic.com
 clientconfig.rpg.riotgames.com
 cloud-2.steampowered.com
@@ -145,6 +149,7 @@ cm03-ord.cm.steampowered.com
 cm04-ord.cm.steampowered.com
 cm1-par1.cm.steampowered.com
 comments.xboxlive.com
+community.akamai.steamstatic.com
 community.steampowered.com
 compare2steam.com
 completionator.com
@@ -238,6 +243,7 @@ download4.epicgames.com
 downloaders.reloadedtech.com
 ea.com
 editorial.xboxlive.com
+ek.tinytitanstudios.com
 emulatoronline.com
 eneba.com
 enhancedsteam.com
@@ -274,6 +280,7 @@ freetoplaythemovie.com
 friends-public-service-prod06.ol.epicgames.com
 g2a.com
 g2play.net
+galaxy-log.gog.com
 game.co.uk
 gamebillet.com
 gamedeed.com
@@ -439,6 +446,7 @@ nerdchan.net
 new.steam.nyan.link
 news.ubisoft.com
 nick.com.au
+notifications-pusher.gog.com
 notify.xboxlive.com
 ns1.valvesoftware.com
 ns2.valvesoftware.com
@@ -504,6 +512,7 @@ randomsteamgame.com
 razer.com
 register.gamersfirst.com
 register.gamersfirst.com.cdn.cloudflare.net
+remote-config.gog.com
 removed.timekillerz.eu
 repo.steampowered.com
 repo.steamstatic.com
@@ -521,6 +530,7 @@ scdkey.com
 scrap.tf
 scratch.mit.edu
 secure-asset-delivery.gameforge.com
+secure.download.dm.origin.com
 secure.eu.playstation.com
 servc.eu
 sessiondirectory.xboxlive.com
@@ -547,6 +557,7 @@ ssl.steamserver.net
 ssl2.steamserver.net
 stadia.dev
 stadia.google.com
+stage.secure.download.dm.origin.com
 starcraft.com
 starcraft2.com
 static.playstation.com
@@ -586,6 +597,7 @@ steamcardexchange.net
 steamcdn-a.akamaihd.net
 steamcharts.com
 steamcommunity.com
+steamcommunity-a.akamaihd.net
 steamcompletionist.net
 steamcontent.com
 steamcustomizer.com
@@ -642,8 +654,10 @@ steamusers.net
 steamvr.com
 steamwishlistcalculator.com
 steamworkshopdownloader.com
+steelseries.com
 store-beta.steampowered.com
 store.akamai.steamstatic.com
+store.cloudflare.steamstatic.com
 store.playstation.com
 store.silagames.com
 store.steamgames.com
@@ -676,6 +690,7 @@ thefunkygibbon.net
 theheartofracing.org
 thewheelhaus.com
 thinkwithportals.com
+tinytitanstudios.com
 titlehub.xboxlive.com
 tracker.gamedock.io
 tracking.epicgames.com
@@ -697,6 +712,7 @@ us.playstation.com
 us.version.battle.net
 useast1-public.aws-ubiservices.ubi.com
 userpresence.xboxlive.com
+users.gog.com
 usertitles.xboxlive.com
 ut-public-service-prod10.ol.epicgames.com
 vacbanned.com
