@@ -313,7 +313,9 @@ getinsidetheorangebox.com
 gg.deals
 goclecd.fr
 gog.com
+gog-statics.com
 gogalaxy.com
+gogcdn.net
 gql.twitch.tv
 greenlightupdates.com
 greenmangaming.com
