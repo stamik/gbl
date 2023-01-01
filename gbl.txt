@@ -3622,6 +3622,7 @@ gameitnow.com
 gamejacket.net
 gamejeux.com
 gamejokers.com
+gamejolt.com
 gamejoystick.com
 gamekeyz.net
 gamekicker.com
@@ -5074,6 +5075,7 @@ hordes.fr
 horse-games.org
 horseland.com
 hosember.hu
+hostify.com
 hostilegames.com
 hot-roads.com
 hotadventuregames.com
@@ -5141,6 +5143,7 @@ hype.games
 hypegames.com
 hypergrav.com
 hyperliner.com
+hypixel.net
 i-am-bored.com
 i-dressup.com
 i-mockery.com
@@ -5312,6 +5315,7 @@ internetgamesfree.com
 internetmatters.org
 interwetten.com
 invocato.com
+io
 io.game
 iogames-io.io
 iogames.fr
@@ -7112,6 +7116,7 @@ lolesports.com
 lolking.net
 lollipopjes.nl
 lolmath.net
+lolstatic.com
 lolstatic-a.akamaihd.net
 lonelycatgames.com
 looki.de
@@ -7488,6 +7493,7 @@ minecraft.net
 minecraftgames2.com
 minecrafthelp.net
 minefield.fr
+minehut.gg
 minervametastasis.com
 minesweeper.de
 minesweeperonline.com
@@ -7551,6 +7557,7 @@ minishockwave.com
 miniville.fr
 miniworldgames.com
 minizips.com
+minotar.net
 minouland.org
 minouvallee.com
 mioland.com
@@ -7611,6 +7618,7 @@ mofunzone.com
 mogamers.net
 mogelpower.de
 mohsye.com
+mojang.com
 mojehry.cz
 mokuton.forumactif.com
 molleindustria.it
@@ -7921,6 +7929,7 @@ newgames4play.xyz
 newgamesy8.com
 newgamez.net
 newgrounds.com
+newgrounds.io
 newkizi.com
 news.dengeki.com
 news.ubisoft.com
@@ -8336,6 +8345,7 @@ opposing-force.net
 opposing-force.org
 opposingforce.com
 opqa.com
+optifine.net
 oracleofmagic.proboards51.com
 orangefoxgames.com
 orangegames.com
@@ -8859,6 +8869,7 @@ pokeyplay.com
 poki.com
 poki.com.br
 poki.de
+poki.io
 pokw.com
 poligames.com
 polkadotgame.com
@@ -9041,6 +9052,7 @@ puzzles.com
 puzzles.com.br
 puzzletfactory.com
 puzzletime.free.fr
+pvp.net
 pw-games.com
 pybem.sourceforge.net
 pyre.gg
@@ -9241,6 +9253,7 @@ rfonline.jp
 rfvdenautia.free.fr
 rggames.com.br
 rgl-prod.ros.rockstargames.com
+rgpub.io
 rhostmush.com
 riata-online.net
 ribbitarena.kidswb.com
@@ -9255,6 +9268,8 @@ rihanna-s-hair-cuts.ezmakeover.com
 rimoplay.com
 rinconjuegos.com
 ringtone-logo-game.com
+riotcdn.com
+riotcdn.net
 riotgames.com
 risasi.com
 riseoflords.com
@@ -11301,6 +11316,7 @@ vendetta-online.com
 vendetta.pl
 venetian.com
 vengadale.com
+venge.io
 ventejeuxvideo.com
 ventoline.com
 venusarcade.com
