@@ -1,3 +1,4 @@
+discord.media
 facebook.com
 facebook.net
 fb.com
