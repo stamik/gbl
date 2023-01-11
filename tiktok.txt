@@ -16,6 +16,7 @@ ibyteimg.com
 ipstatp.com
 isnssdk.com
 lf1-ttcdn-tos.pstatp.com
+log16-normal-useast1a.tiktokv.com
 muscdn.com
 musemuse.cn
 musical.ly
