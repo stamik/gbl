@@ -278,6 +278,7 @@ ltam.newsroom.fb.com
 m.facebook.com
 m.facebook.com--viewtrade-1218162.sayursayur.com
 m.fb.com-----------------read-terms.songsne.com
+m.youtube.com
 madeby.fb.com
 madebyyou.fb.com
 mail.thefacebook.com
@@ -1119,6 +1120,8 @@ www.wethinkdigital.fb.com
 www.whatsapppolicy.fb.com
 www.workplaceblog.fb.com
 www.your.fb.com
+www.youtube-nocookie.com
+www.youtube.com
 www.zona.fb.com
 yearinreview.fb.com
 your.fb.com
@@ -1126,6 +1129,8 @@ yourbusinessstory.fb.com
 youtu.be
 youtube-nocookie.com
 youtube.com
+youtube.googleapis.com
+youtubei.googleapis.com
 zh-hans.facebookbrand-2018-dev.fb.com
 zh-hans.facebookbrand-2018-preprod.fb.com
 zh-hans.facebookbrand-2018-release.fb.com
