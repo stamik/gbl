@@ -1131,6 +1131,7 @@ youtube-nocookie.com
 youtube.com
 youtube.googleapis.com
 youtubei.googleapis.com
+yt3.ggpht.com
 zh-hans.facebookbrand-2018-dev.fb.com
 zh-hans.facebookbrand-2018-preprod.fb.com
 zh-hans.facebookbrand-2018-release.fb.com
