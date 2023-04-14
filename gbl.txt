@@ -207,21 +207,6 @@
 9freeonlinegames.com
 9mine.com
 9sur49.com
-ACPS3.Virgin.secure.ubi.com
-CA1-edge.ea.com
-CA1-webconf.ea.com
-CORPECPD.ea.com
-EA.com
-EUTransfer.ea.com
-Lyncdiscover.contractor.ea.com
-Lyncdiscover.ea.com
-Lyncdiscover.eaj.ea.com
-Lyncdiscover.europe.ea.com
-Lyncdiscover.la.ad.ea.com
-Lyncdiscover.qa.ea.com
-NATransfer.ea.com
-PLAYER.THESIMSONLINE.EA.COM
-Sip.epicgames.com
 a-mud.ru
 a-t-f.net
 a-telecharger.com
@@ -233,6 +218,12 @@ a123.com
 a2enliberte.com
 a2zarcade.com
 aaafreegames.com
+aad.cds-dev.catalog.gamepass.com
+aad.cds-ppe.catalog.gamepass.com
+aad.cds.catalog.gamepass.com
+aad.metadatafd-dev.metadata.gamepass.com
+aad.metadatafd-ppe.metadata.gamepass.com
+aad.metadatafd.metadata.gamepass.com
 aardwolf.com
 abafou.com
 abalona.com
@@ -463,6 +454,12 @@ alenta.proboards14.com
 alereflammas.org
 alert.battle.net
 alertajuegos.com
+alerting-geneva-dev.gamepass.com
+alerting-geneva-ppe.gamepass.com
+alerting-geneva-prod.gamepass.com
+alerting-groupsadmin-dev.gamepass.com
+alerting-groupsadmin-ppe.gamepass.com
+alerting-groupsadmin-prod.gamepass.com
 alex-soft.net
 alex.stacken.kth.se
 alexagames.com
@@ -596,6 +593,7 @@ aperturelaboratories.com
 aperturelabratories.com
 aperturescience.com
 apexwebgaming.com
+api-2.gamepass.com
 api-beta.steampowered.com
 api-ubiservices.ubi.com
 api.accounts.nintendo.com
@@ -1106,7 +1104,6 @@ bibagames.com
 bibicollection.com
 biclopsgames.com
 biereland.com
-bigHero.io
 bigame.altervista.org
 bigantgames.com
 bigarcade.net
@@ -1122,6 +1119,7 @@ bigfishgames.fr
 bigfootgame.com
 bigfuntown.com
 bigheadbasketballunblocked.com
+bighero.io
 bigideafun.com
 bigjeux.com
 biglittlegames.com
@@ -1427,6 +1425,7 @@ c.mp3gate.ru
 c7i.ru
 ca1-edge.ea.com
 ca1-webapp.ea.com
+ca1-webconf.ea.com
 caboucadin.com
 cache-cms-ext-eu.battle.net
 cache.download.turbopoker.fr
@@ -1560,6 +1559,9 @@ casualgameplay.com
 casualgames.fr
 casualii.com
 casualmob.com
+catalog-beta.gamepass.com
+catalog-dev.gamepass.com
+catalog-ppe.gamepass.com
 catalog-public-service-prod06.ol.epicgames.com
 catalog.gamepass.com
 catmario.net
@@ -2362,6 +2364,7 @@ dev.battle.net
 dev.dirtybits.api.origin.com
 dev.dirtybits.dm.origin.com
 dev.epicgames.com
+dev.geneva.keyvault.alerting-geneva-dev.gamepass.com
 dev.terraform.on.epicgames.com
 dev.vault.substrate.on.epicgames.com
 dev.www.x.origin.com
@@ -2752,7 +2755,7 @@ ec2-monitoring-storm.ubi.com
 ecarteweb.com
 ecbarre2.net
 ece4co.vis.ne.jp
-echalk.co.uk/Maths/mathsMenu.html
+echalk.co.uk/maths/mathsmenu.html
 echecs-online.fr
 echecs.com
 echecs21.com
@@ -3393,6 +3396,8 @@ flexera-public-us-east-1.it.epicgames.com
 flexeraone.stage.it.epicgames.com
 flibus.com
 flight1.100megabyte.com
+flighting-dev.gamepass.com
+flighting.gamepass.com
 flightsim.com
 flightsim.com.br
 flightsimulatorarg.com.ar
@@ -6159,6 +6164,9 @@ internetgames247.com
 internetgamesfree.com
 internetmatters.org
 interwetten.com
+invitefd-dev.gamepass.com
+invitefd-ppe.gamepass.com
+invitefd.gamepass.com
 invocato.com
 io.game
 iogames-io.io
@@ -7463,7 +7471,7 @@ jugarxjuegos.com
 jugatetodo.com
 jugateya.com
 juggernart.com
-jujo00obo2o234ungd3t8qjfcjrs3o6k-a-sites-opensocial.googleusercontent.com/gadgets/ifr#up_embed_snippet=%3C/object%3E+%3Cparam+name%3D%22quality%22+value%3D%22high%22+/%3E++%3Cparam+name%3D%22bgcolor%22+value%3D%22%23ffffff%22+/%3E++%3Cembed+src%3D%22https://b9047f2d-a-62cb3a1a-s-sites.googlegroups.com/site/meaglesgames3/games/sports-head-football-championship.swf%22++quality%3D%22high%22+bgcolor%3D%22%23ffffff%22+width%3D%22728%22+height%3D%22529%22+++name%3D%22mymoviename%22+align%3D%22%22+type%3D%22application/x-shockwave-flash%22++pluginspage%3D%22http://www.macromedia.com/go/getflashplayer%22%3E++%3C/embed%3E++%3C/object%3E&st=e%3DAIHE3cBqFG%252BLg29rGLNMEJgEp2gz5TAbfBuy3mzIUfVF3CR3RZDYbV1wMyDF2Cx3TKbBOWYhfYN3VafWz03rZXXpnY0d0ETMe2g6PHrhazgWeDBrxByD1YMUGLQZhmAUjgvnKQ%252F8atJJ%26c%3Denterprise&rpctoken=1329582261009011955
+jujo00obo2o234ungd3t8qjfcjrs3o6k-a-sites-opensocial.googleusercontent.com/gadgets/ifr#up_embed_snippet=%3c/object%3e+%3cparam+name%3d%22quality%22+value%3d%22high%22+/%3e++%3cparam+name%3d%22bgcolor%22+value%3d%22%23ffffff%22+/%3e++%3cembed+src%3d%22https://b9047f2d-a-62cb3a1a-s-sites.googlegroups.com/site/meaglesgames3/games/sports-head-football-championship.swf%22++quality%3d%22high%22+bgcolor%3d%22%23ffffff%22+width%3d%22728%22+height%3d%22529%22+++name%3d%22mymoviename%22+align%3d%22%22+type%3d%22application/x-shockwave-flash%22++pluginspage%3d%22http://www.macromedia.com/go/getflashplayer%22%3e++%3c/embed%3e++%3c/object%3e&st=e%3daihe3cbqfg%252blg29rglnmejgep2gz5tabfbuy3mziufvf3cr3rzdybv1wmydf2cx3tkbbowyhfyn3vafwz03rzxxpny0d0etme2g6phrhazgwedbrxbyd1ymuglqzhmaujgvnkq%252f8atjj%26c%3denterprise&rpctoken=1329582261009011955
 jump-subs.ea.com
 jumpscaregames.com
 jungleadventure.eggcelent.com
@@ -8131,7 +8139,13 @@ luxmeet.com
 luxor.com
 lvlt.assets.ea.com
 lvlt.bioware.cdn.ea.com
+lyncdiscover.contractor.ea.com
+lyncdiscover.ea.com
+lyncdiscover.eaj.ea.com
 lyncdiscover.epicgames.com
+lyncdiscover.europe.ea.com
+lyncdiscover.la.ad.ea.com
+lyncdiscover.qa.ea.com
 m-games-club.com
 m.avatar.dm.origin.com
 m.friends.dm.origin.com
@@ -8412,6 +8426,11 @@ messdistr2-rdr2-prod.ros.rockstargames.com
 mestoiger.com
 metaboli.fr
 metacritic.com
+metadata-dev.gamepass.com
+metadata-ppe.gamepass.com
+metadata.gamepass.com
+metadatafd-dev.gamepass.com
+metadatafd.gamepass.com
 metadatagames.org
 metaface-test.hyprsense-dev.it.epicgames.com
 metaface.hyprsense-dev.it.epicgames.com
@@ -8610,6 +8629,8 @@ moddota.com
 models.data.ea.com
 modern-war-generals.com
 modern-war-militia.com
+moderntokens2s.profile-ppe.gamepass.com
+moderntokens2s.profile.gamepass.com
 modernwar.nl
 modexpo.com
 modulorargentina.com.ar
@@ -9868,6 +9889,7 @@ playdosgamesonline.com
 playedonline.com
 playemulator.com
 player.epyx.hu
+player.thesimsonline.ea.com
 player52.com
 playerauctions.com
 playerclicks.com
@@ -10064,8 +10086,11 @@ portail-jeux-gratuits.fr
 portail-jeux.com
 portaildesjeux.com
 portailjeuxvideos.fr
+portal-dev.gamepass.com
+portal-ppe.gamepass.com
 portal-psp.com
 portal.d-wars.com
+portal.gamepass.com
 portal2-game.com
 portal2-thegame.com
 portal2game.net
@@ -10075,6 +10100,9 @@ portaljuegos.com
 portaljuegos.net
 portaljuegosgratis.com
 portalmania.net
+portalui-dev.gamepass.com
+portalui-ppe.gamepass.com
+portalui.gamepass.com
 portalxd.com
 portesmonstrestresors.com
 positech.co.uk
@@ -10094,6 +10122,7 @@ powzone.com
 poxnora.com
 poxworldempire.com
 pparcade.com
+ppe.geneva.keyvault.alerting-geneva-ppe.gamepass.com
 pproxify.us
 pragen.net
 prd.orbit.bos.ea.com
@@ -10125,6 +10154,9 @@ prisonserver.co.uk
 pristavka.kulichki.ru
 privacy.xboxlive.com
 privacyadminservice.ubi.com
+privatecatalog-dev.gamepass.com
+privatecatalog-ppe.gamepass.com
+privatecatalog.gamepass.com
 prizee.com
 probandopista.fullblog.com.ar
 prod-config-querier.infosec.on.epicgames.com
@@ -10132,11 +10164,14 @@ prod.actual.battle.net
 prod.atlas.gryphon.battle.net
 prod.chef.x.origin.com
 prod.depot.battle.net
+prod.geneva.keyvault.alerting-geneva-prod.gamepass.com
 prod.gryphon.battle.net
 prod.mea.orbit.bos.ea.com
 prodstaging.store.epicgames.com
 prodvahry.cz
+profile-ppe.gamepass.com
 profile.ea.com
+profile.gamepass.com
 profile.integration.ea.com
 profile.xboxlive.com
 projectlore.com
@@ -10314,6 +10349,8 @@ questfortherest.com
 questioncenter.xyz
 questionspourunchampion.france3.fr
 questroute.com
+quests-ppe.gamepass.com
+quests.gamepass.com
 queue.battle.net
 queuing.ch
 quevicio.com
@@ -10634,6 +10671,8 @@ rpgwo.com
 rpm-transfer.ea.com
 rpol.net
 rprules.tripod.com
+rps.profile-ppe.gamepass.com
+rps.profile.gamepass.com
 rpsgame.com
 rs7-pc-lnch-a.rvmc.cn-r6-dev.aws.r6.ubi.com
 rs7-pc-lnch-china-a.rvmc.cn-r6-dev.aws.r6.ubi.com
@@ -12554,6 +12593,7 @@ use1.vault.substrate.on.epicgames.com
 useast1-public.aws-ubiservices.ubi.com
 usedstar.com
 userpresence.xboxlive.com
+users.gamepass.com
 users.gog.com
 usertitles.xboxlive.com
 ushop.ubi.com
@@ -13449,6 +13489,7 @@ www.a10.com
 www.achievementstats.com
 www.aiononline.com
 www.allkeyshop.com
+www.api-2.gamepass.com
 www.backloggery.com
 www.battle.net
 www.behindthegame.ubi.com
@@ -13563,6 +13604,7 @@ www.twitch.tv
 www.ubi.com
 www.ubisoft.com
 www.uplay.ubi.com
+www.users.gamepass.com
 www.valvesoftware.com
 www.voidu.com
 www.wepc.com
