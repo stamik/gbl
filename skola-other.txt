@@ -1,7 +1,6 @@
 360.fb.com
 360video.fb.com
 360videos.fb.com
-AppStore.fb.com
 about.fb.com
 access.fb.com
 admin.youtube.com
@@ -12,6 +11,8 @@ apacpolicy.fb.com
 api.facebook.com
 api.instagram.com
 apmms.fb.com
+appeals-backend-canary.a.twitchcdn.net
+appeals-backend.a.twitchcdn.net
 appstore.fb.com
 appstoretest.fb.com
 aprenda-dev.fb.com
@@ -53,6 +54,8 @@ brasil.fb.com
 brazil.fb.com
 businesspartners.fb.com
 ca.newsroom.fb.com
+canary.assets.clips.twitchcdn.net
+canary.sage.twitchcdn.net
 careerconnections.fb.com
 cdp.fb.com
 cinyourrc.facebook.com
@@ -87,7 +90,9 @@ de.newsroom.fb.com
 de.sustainability.fb.com
 de.yearinreview.fb.com
 demotrainingportal.fb.com
+desktop-assets.twitchcdn.net
 deutschland.fb.com
+developer-rig.twitchcdn.net
 digitaleslernen.fb.com
 digitaleslernzentrum.fb.com
 digitalskill.fb.com
@@ -193,11 +198,14 @@ gb.newsroom.fb.com
 germany.fb.com
 giftofgiving.fb.com
 go.fb.com
+go.sage.twitchcdn.net
 going-global.fb.com
 googlevideo.com
 graphql.instagram.com
 groups.fb.com
 gs.fb.com
+gsdk.twitchcdn.net
+h.twitchcdn.net
 hacktober.fb.com
 hardquestions.fb.com
 hardquestionstour.fb.com
@@ -241,6 +249,8 @@ ja.facebookbrand-preprod.fb.com
 ja.facebookbrand-release.fb.com
 ja.newsroom.fb.com
 jp.yearinreview.fb.com
+jtvnw-30eb2e4e018997e11b2884b1f80a025c.twitchcdn.net
+jtvnw-cloudfront-30eb2e4e018997e11b2884b1f80a025c.twitchcdn.net
 ko-kr.facebookbrand-2018-dev.fb.com
 ko-kr.facebookbrand-2018-preprod.fb.com
 ko-kr.facebookbrand-2018-release.fb.com
@@ -278,6 +288,7 @@ ltam.newsroom.fb.com
 m.facebook.com
 m.facebook.com--viewtrade-1218162.sayursayur.com
 m.fb.com-----------------read-terms.songsne.com
+m.twitchcdn.net
 m.youtube.com
 madeby.fb.com
 madebyyou.fb.com
@@ -308,6 +319,7 @@ npe.fb.com
 oculusforbusiness.fb.com
 oculusweb.fb.com
 opensource.fb.com
+p.twitchcdn.net
 peoplepractices.fb.com
 phabricator.cstools.fb.com
 phabricator.intern.fb.com
@@ -331,6 +343,7 @@ poland.fb.com
 politics.fb.com
 polska.fb.com
 prod.facebook.com
+production.assets.clips.twitchcdn.net
 przestrzen.fb.com
 przestrzenfb.com
 pt-br.facebookbrand-2018-dev.fb.com
@@ -860,6 +873,7 @@ r6---sn-vgqsrn76.a1.googlevideo.com
 r6---sn-vgqsrn7s.a1.googlevideo.com
 r7---sn-uhvcpax0n5-qxol.a1.googlevideo.com
 r8---sn-uhvcpax0n5-qxol.a1.googlevideo.com
+rc.sage.twitchcdn.net
 redd.it
 reddit.com
 redditmedia.com
@@ -867,6 +881,7 @@ redditstatic.com
 redirector.googlevideo.com
 register.facebook.com
 register.new.facebook.com
+release.sage.twitchcdn.net
 research.fb.com
 rightsmanager.fb.com
 rozwoj-dev.fb.com
@@ -883,6 +898,8 @@ ru.facebookbrand-2018.fb.com
 ru.facebookbrand-dev.fb.com
 ru.facebookbrand-preprod.fb.com
 ru.facebookbrand-release.fb.com
+s.twitchcdn.net
+sage.twitchcdn.net
 search.fb.com
 secure.facebook.com
 seformer.fb.com
@@ -897,10 +914,12 @@ spain.fb.com
 sparkar-partners.fb.com
 sparkar.fb.com
 ssl.facebook.com
+staging.assets-staging.clips.twitchcdn.net
 startup.fb.com
 startupgarage.fb.com
 startuphub.fb.com
 startups.fb.com
+static-cfl.twitchcdn.net
 status.fb.com
 stories.fb.com
 su1-dev.fb.com
