@@ -2230,6 +2230,7 @@ data1.origin.com
 data2.origin.com
 data4.origin.com
 datarouter.ol.epicgames.com
+datarouter-prod.ak.epicgames.com
 datastorage-public-service-prod.ol.epicgames.com
 datingsim.com
 daveheinzel.com
