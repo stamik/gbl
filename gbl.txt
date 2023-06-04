@@ -599,6 +599,7 @@ api-ubiservices.ubi.com
 api.accounts.nintendo.com
 api.easyanticheat.net
 api.ec.nintendo.com
+api.epicgames.dev
 api.kws.ol.epicgames.com
 api.overwatchleague.com
 api.peakgames.net
@@ -1901,6 +1902,7 @@ conflictnations.com
 confluence.it.epicgames.com
 confluence.operations.it.epicgames.com
 confluence.stage.it.epicgames.com
+connect.epicgames.dev
 connect.origin.com
 connect.ubisoft.com
 connexion.linescort.com
@@ -2229,8 +2231,8 @@ data.ubi.com
 data1.origin.com
 data2.origin.com
 data4.origin.com
-datarouter.ol.epicgames.com
 datarouter-prod.ak.epicgames.com
+datarouter.ol.epicgames.com
 datastorage-public-service-prod.ol.epicgames.com
 datingsim.com
 daveheinzel.com
@@ -13516,6 +13518,7 @@ www.eneba.com
 www.enhancedsteam.com
 www.epicbundle.com
 www.epicgames.com
+www.epicgames.dev
 www.eurogamer.net
 www.exophase.com
 www.fanatical.com
