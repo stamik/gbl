@@ -599,7 +599,6 @@ api-ubiservices.ubi.com
 api.accounts.nintendo.com
 api.easyanticheat.net
 api.ec.nintendo.com
-api.epicgames.dev
 api.kws.ol.epicgames.com
 api.overwatchleague.com
 api.peakgames.net
@@ -1902,7 +1901,6 @@ conflictnations.com
 confluence.it.epicgames.com
 confluence.operations.it.epicgames.com
 confluence.stage.it.epicgames.com
-connect.epicgames.dev
 connect.origin.com
 connect.ubisoft.com
 connexion.linescort.com
@@ -2231,8 +2229,8 @@ data.ubi.com
 data1.origin.com
 data2.origin.com
 data4.origin.com
-datarouter-prod.ak.epicgames.com
 datarouter.ol.epicgames.com
+datarouter-prod.ak.epicgames.com
 datastorage-public-service-prod.ol.epicgames.com
 datingsim.com
 daveheinzel.com
@@ -2758,7 +2756,6 @@ ec2-monitoring-storm.ubi.com
 ecarteweb.com
 ecbarre2.net
 ece4co.vis.ne.jp
-echalk.co.uk/maths/mathsmenu.html
 echecs-online.fr
 echecs.com
 echecs21.com
@@ -4056,7 +4053,6 @@ g5.dk
 g60g.com
 g9g.com
 gaara-manga.fr
-gabrielecirulli.github.io/2048
 gadcity.com
 gadgetgamez.com
 gagner-jeux-concours-gratuits.com
@@ -5471,7 +5467,6 @@ goodgamestudios.com
 goodjeux.com
 goodsol.com
 goofcentral.tk
-google.com/site/unblockurgames
 googlefeudgame.com
 googlegames.cz
 googleminigames.com
@@ -5575,7 +5570,6 @@ gros-lots.fr
 groupees.com
 groupme.com
 groups.gameservices.ea.com
-groups.google.com/d/forum/daily-web-proxies
 groups.integration.gameservices.ea.com
 grouvee.com
 grrlswrrld.com
@@ -7474,7 +7468,6 @@ jugarxjuegos.com
 jugatetodo.com
 jugateya.com
 juggernart.com
-jujo00obo2o234ungd3t8qjfcjrs3o6k-a-sites-opensocial.googleusercontent.com/gadgets/ifr#up_embed_snippet=%3c/object%3e+%3cparam+name%3d%22quality%22+value%3d%22high%22+/%3e++%3cparam+name%3d%22bgcolor%22+value%3d%22%23ffffff%22+/%3e++%3cembed+src%3d%22https://b9047f2d-a-62cb3a1a-s-sites.googlegroups.com/site/meaglesgames3/games/sports-head-football-championship.swf%22++quality%3d%22high%22+bgcolor%3d%22%23ffffff%22+width%3d%22728%22+height%3d%22529%22+++name%3d%22mymoviename%22+align%3d%22%22+type%3d%22application/x-shockwave-flash%22++pluginspage%3d%22http://www.macromedia.com/go/getflashplayer%22%3e++%3c/embed%3e++%3c/object%3e&st=e%3daihe3cbqfg%252blg29rglnmejgep2gz5tabfbuy3mziufvf3cr3rzdybv1wmydf2cx3tkbbowyhfyn3vafwz03rzxxpny0d0etme2g6phrhazgwedbrxbyd1ymuglqzhmaujgvnkq%252f8atjj%26c%3denterprise&rpctoken=1329582261009011955
 jump-subs.ea.com
 jumpscaregames.com
 jungleadventure.eggcelent.com
@@ -9675,9 +9668,6 @@ pcjeuxblog.fr
 pcmag.com
 pcshellapptile.xboxlive.com
 pczone.co.uk
-peacefmonline.com/streaming/hello
-peacefmonline.com/streaming/okay
-peacefmonline.com/streaming/win
 pelikone.fi
 pelit.ws
 pelitykki.com
@@ -10832,7 +10822,6 @@ scory.com
 scrabble.malcolmboyd.net
 scrap.tf
 scratch.mit.edu
-scratch.mit.edu/projects/3298856
 scrawlfx.com
 sd1027.sivit.org
 sda-admin-okta.it-entapps-dev.epicgames.com
@@ -10953,7 +10942,6 @@ shegame.com
 shellshock.io
 shellshockers.io
 shender4.com
-shender4.com/games
 sherestyra.de
 sheriff.bfda.live.use1a.on.epicgames.com
 shermix.com
@@ -13518,7 +13506,6 @@ www.eneba.com
 www.enhancedsteam.com
 www.epicbundle.com
 www.epicgames.com
-www.epicgames.dev
 www.eurogamer.net
 www.exophase.com
 www.fanatical.com
@@ -13879,7 +13866,7 @@ zombiegame.org
 zombiegamer.co.za
 zombiegames.us
 zombiemud.org
-zombiesgamesfree.com/
+zombiesgamesfree.com
 zombsroyale.io
 zona-casinos.es
 zona-d-juegos.ideal.es
