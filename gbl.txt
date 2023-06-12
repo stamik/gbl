@@ -373,6 +373,7 @@ adventuredevelopers.com
 adventuregamers.com
 adventuretime.es
 advergame.fr
+advertise.roblox.com
 adweb-int.ea.com
 adweb.ea.com
 adwebture.de
@@ -389,6 +390,7 @@ aev.stage.adda.dev.use1a.on.epicgames.com
 af.plit.dk
 af.vew.net
 afdb.dev.use1a.on.epicgames.com
+affiliates.roblox.com
 afro-ninja.com
 aftenspill.no
 afterend.com
@@ -500,6 +502,7 @@ alphajeux.com
 alphawars.com
 alps.cdn.nintendo.net
 alt-starfleet-rpg.org
+altdevforum.roblox.com
 alteredgamer.com
 altoids.com
 altosjogos.com
@@ -613,6 +616,7 @@ api2.origin.com
 api2.playhaven.com
 api3.origin.com
 api4.origin.com
+apis.rbxcdn.com
 apocalypsis.org
 apomicsworms.com
 aporjuegos.com
@@ -887,6 +891,7 @@ auth.riotgames.com
 author-landing.dev.cq.ea.com
 author-landing.prod.cq.ea.com
 author-landing.test.cq.ea.com
+authorize.roblox.com
 autodiscover.contractor.ea.com
 autodiscover.ea.com
 autodiscover.europe.ea.com
@@ -919,6 +924,7 @@ awfularcades.com
 awfulgames.com
 awplanet.com
 aws.amazon.com
+awsvpn.roblox.com
 axelgame.free.fr
 axeso5.com
 axeuk.com
@@ -978,6 +984,7 @@ bar2ayunie.com
 barajando.com
 barbie.everythinggirl.com
 barbok.fr
+barista-example.roblox.com
 barter.vg
 baseattackforce.com
 basketball-game.com
@@ -1207,6 +1214,7 @@ blockwars.io
 blog-game.com
 blog-jeux.com
 blog.fr.playstation.com
+blog.roblox.com
 blog.ubi.com
 blogazeroth.com
 blogdeminijuegos.com
@@ -1225,6 +1233,7 @@ bloonstowerdefense5unblocked.info
 bloonsworld.com
 bloontowerdefense5.info
 bloontowerdefense5unblocked.com
+bloxcon.roblox.com
 bloxorzgame.com
 bloxorzunblocked.com
 blueblockgames.com
@@ -1422,7 +1431,17 @@ bytevault.test.gameservices.ea.com
 bzombie.com
 c-ici-turf.com
 c.mp3gate.ru
+c0.rbxcdn.com
+c1.rbxcdn.com
+c2.rbxcdn.com
+c3.rbxcdn.com
+c4.rbxcdn.com
+c5.rbxcdn.com
+c6.rbxcdn.com
+c7.rbxcdn.com
 c7i.ru
+c8.rbxcdn.com
+c9.rbxcdn.com
 ca1-edge.ea.com
 ca1-webapp.ea.com
 ca1-webconf.ea.com
@@ -1522,6 +1541,7 @@ cardgamesolitaire.com
 cardgamespidersolitaire.com
 cardsagainstequestria.com
 careers.ea.com
+careers.roblox.com
 cargames.com
 cargames1.com
 cargames60.com
@@ -1795,6 +1815,7 @@ clientconfig.rpg.riotgames.com
 clients.live01.albion.zone
 clients.playground01.albion.zone
 clients.staging01.albion.zone
+clientsettingscdn.roblox.com
 clipplay.com
 cliquojeux.com
 clockworkmonster.com
@@ -1900,6 +1921,7 @@ config.x.origin.com
 conflictnations.com
 confluence.it.epicgames.com
 confluence.operations.it.epicgames.com
+confluence.roblox.com
 confluence.stage.it.epicgames.com
 connect.origin.com
 connect.ubisoft.com
@@ -1993,8 +2015,10 @@ coremud.org
 coreplayer.tv
 corgigame.screencommerce.net
 cornutopia.net
+corp.roblox.com
 corpecpd.ea.com
 corpects.ea.com
+corporate.roblox.com
 correctoconsilvio.com
 cortex-backend.gamedev.pulse.dev.on.epicgames.com
 cortex.dev.on.epicgames.com
@@ -2056,7 +2080,9 @@ crazyjeux.com
 crazymonkeygames.com
 crazymonkeys.com
 create-epic-kitt-react.fnsocial.on.epicgames.com
+create.roblox.com
 creativo.fr
+creator.roblox.com
 creaturz.com
 creepsmash.com
 crest.ea.com
@@ -2108,6 +2134,7 @@ csonline.com.tw
 csoturkey.com.tr
 csoturkey.info
 csoturkey.net
+cssak.roblox.com
 cstool.playground01.albion.zone
 cstool.staging01.albion.zone
 cuantosjuegos.com
@@ -2229,8 +2256,8 @@ data.ubi.com
 data1.origin.com
 data2.origin.com
 data4.origin.com
-datarouter.ol.epicgames.com
 datarouter-prod.ak.epicgames.com
+datarouter.ol.epicgames.com
 datastorage-public-service-prod.ol.epicgames.com
 datingsim.com
 daveheinzel.com
@@ -2326,6 +2353,7 @@ demos.blackberry.com
 demosgratis.com
 denagames.com
 denaruto.com
+deploy.roblox.com
 deploymentserver.splunk.it.epicgames.com
 deploymentserver.splunk.operations.it.epicgames.com
 deportesjuegos.es
@@ -2373,7 +2401,9 @@ dev.xray.x.origin.com
 devast.io
 developer.battle.net
 developer.origin.com
+developer.roblox.com
 developer.valvesoftware.com
+devforum.roblox.com
 deviantflash.com
 devilishfree.com
 devilishgames.com
@@ -2473,6 +2503,7 @@ dockgames.com
 docs.aabd.dev.use1a.on.epicgames.com
 docs.fcfd.live.use1a.on.epicgames.com
 docs.on.epicgames.com
+docsiteassets.roblox.com
 docweasel.com
 dod1.net
 dod2.com
@@ -2781,6 +2812,7 @@ editiongames.com
 editorial.gos.ea.com
 editorial.xboxlive.com
 edoona.com
+education.roblox.com
 ee13.com
 efree-games.com
 efreegame.com
@@ -3016,6 +3048,7 @@ evefans.cn
 evengamen.nl
 evenmoreballoons.net
 events.gameforge.com
+events.roblox.com
 eveonline.com
 everdale2089.forum2jeux.com
 everestpoker.com
@@ -3528,6 +3561,7 @@ foggygames.com
 fondationjeu.com
 fonts.ea.com
 fonts.ea.com.c.footprint.net
+fonts.roblox.com
 foo.rvmc.cn-r6-dev.aws.r6.ubi.com
 foogamers.com
 foossile.com
@@ -4565,6 +4599,7 @@ games.3form.net
 games.abc.go.com
 games.amazing4u.info
 games.aol.com
+games.api.roblox.com
 games.artie.com
 games.beedigital.net
 games.bitcoin.com
@@ -5766,6 +5801,7 @@ helipopter.co.uk
 hellawack.net
 hellsing-game.asianfreeforum.com
 help.ea.com
+help.roblox.com
 help.steampowered.com
 hentertainment.nl
 herna.biz
@@ -6185,6 +6221,7 @@ ipv6check-udp.steamcontent.com
 iqpied.com
 iqservice.it.epicgames.com
 iqservice.stage.it.epicgames.com
+ir.roblox.com
 ironhidegames.com
 ironmangames.org
 is.mud.pl
@@ -6997,6 +7034,7 @@ jira.it-entapps-dev.epicgames.com
 jira.it.epicgames.com
 jira.ol.epicgames.com
 jira.operations.it.epicgames.com
+jira.roblox.com
 jira.stage.it.epicgames.com
 jitterbug.com
 jjsoftgames.com
@@ -7006,6 +7044,7 @@ joa-casino.com
 joaca-te.net
 joaca.fanni.biz
 jobs.ea.com
+jobs.roblox.com
 jocjuegos.com
 jocmania.com
 joculete-barbie.com
@@ -8980,6 +9019,7 @@ newgrounds.com
 newgrounds.io
 newkizi.com
 news.dengeki.com
+news.roblox.com
 news.ubisoft.com
 newsandentertainment.com
 newsfeedgame.com
@@ -9096,6 +9136,7 @@ novelconcepts.co.uk
 novelgames.com
 nowgamer.com
 nps.ea.com
+nrt-gw.vpn.cn.roblox.com
 ns-knt.com
 ns1.valvesoftware.com
 ns2.valvesoftware.com
@@ -10157,6 +10198,7 @@ prod.actual.battle.net
 prod.atlas.gryphon.battle.net
 prod.chef.x.origin.com
 prod.depot.battle.net
+prod.docsiteassets.roblox.com
 prod.geneva.keyvault.alerting-geneva-prod.gamepass.com
 prod.gryphon.battle.net
 prod.mea.orbit.bos.ea.com
@@ -10515,6 +10557,7 @@ republic-online.net
 republik-dionysos.de
 repuls.io
 reroll1s.com
+research.roblox.com
 residentevilcenter.net
 residentevilsh.com
 resort.org
@@ -10588,6 +10631,7 @@ rivercombat.com
 rivergame.net
 rivierahotel.com
 rixoyun.com
+rjobs.roblox.com
 rkka.org
 rl-test.data.ea.com
 rl.data.ea.com
@@ -10753,6 +10797,7 @@ saharavegas.com
 saihan.enix.org
 sailorfuku.com
 sal10.net
+sales.roblox.com
 sales.starcitygames.com
 salle-de-jeux.com
 salmonz.io
@@ -10891,6 +10936,11 @@ sess.net
 sessiondirectory.xboxlive.com
 sessoblog.it
 settings-win.data.microsoft.com
+setup-ak.rbxcdn.com
+setup-cfly.rbxcdn.com
+setup-hw.rbxcdn.com
+setup-ll.rbxcdn.com
+setup.rbxcdn.com
 sevengames.de
 sevengames.prosieben.at
 sexlestus1.superforum.fr
@@ -10974,6 +11024,7 @@ shop-dev.ubi.com
 shop-prod.ubi.com
 shop.battle.net
 shop.phantasialand.de
+shop.roblox.com
 shop.ubi.com
 shopatvalve.com
 shot-online.de
@@ -11498,6 +11549,7 @@ status.discordapp.com
 status.epicgames.com
 status.leagueoflegends.com
 status.playstation.com
+status.roblox.com
 statuspage.io
 stavela.cz
 stci.qc.ca
@@ -11781,8 +11833,18 @@ symuon.com
 synoree.com
 systemwars.com
 szornyek.net
+t0.rbxcdn.com
+t1.rbxcdn.com
+t2.rbxcdn.com
 t2tmud.org
+t3.rbxcdn.com
+t4.rbxcdn.com
 t45ol.com
+t5.rbxcdn.com
+t6.rbxcdn.com
+t7.rbxcdn.com
+t8.rbxcdn.com
+t9.rbxcdn.com
 tableau-dev.it.epicgames.com
 tableau.it.epicgames.com
 tableaucorporate.dev.ea.com
@@ -11804,6 +11866,7 @@ taikodom.com.br
 take2games.com
 takegame.com
 takepoint.io
+talent.roblox.com
 talesofmagic.fr
 talk.x.origin.com
 talon-service-prod.ak.epicgames.com
@@ -11872,6 +11935,7 @@ teamfortresstv.com
 teamrobusto.com
 teamspeak.com
 teamxbox.com
+techblog.roblox.com
 techunblocked.org
 teddygames.com
 teenbuzz.org
@@ -12246,6 +12310,7 @@ towerdefenseplay.com
 towerofdefense.com
 towerwars.de
 toytoygames.com
+tr.rbxcdn.com
 tracker.gamedock.io
 tracking.epicgames.com
 trackmania.com
@@ -12425,6 +12490,7 @@ ugamezone.com
 ugoplayer.com
 ugotgames.com
 ui.vault.substrate.on.epicgames.com
+uiblox.roblox.com
 ujeux.fr
 uk.gamesplanet.com
 ukbypass.info
@@ -12551,6 +12617,7 @@ uplay.ubi.com
 uplay.ubisoft.com
 uplaygames.com
 upliftgames.com
+upload.crashes.roblox.com
 uploadski.com
 uprisingempires.com
 uproar.com
@@ -13148,6 +13215,8 @@ vpn-sk2.it.epicgames.com
 vpn-sv10-ft.it.epicgames.com
 vpn-sv10.it.epicgames.com
 vpn-yok.it.epicgames.com
+vpn.cn.roblox.com
+vpn.roblox.com
 vpnbook.com
 vpngate.net
 vpnme.me
@@ -13316,6 +13385,7 @@ wiidirecto.com
 wiigen.fr
 wiilovemario.com
 wiiplayable.com
+wiki.roblox.com
 wiki.staging01.albion.zone
 wikia.com
 wild.fiends.com
@@ -13494,6 +13564,7 @@ www.cheapshark.com
 www.chrono.gg
 www.cjs-cdkeys.com
 www.completionator.com
+www.corp.roblox.com
 www.dailyindiegame.com
 www.discordapp.com
 www.dlcompare.fr
@@ -13569,6 +13640,7 @@ www.razer.com
 www.retail-pr.ea.com
 www.rimoplay.com
 www.riotgames.com
+www.roblox.com
 www.rockstargames.com
 www.scdkey.com
 www.sgtools.info
