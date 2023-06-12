@@ -286,6 +286,7 @@ accounts.xboxlive.com
 accounts2s.ea.com
 accounts2s.ears.lt.ea.com
 accounts2s.int.ea.com
+accountsettings.roblox.com			
 accro-jeux.com
 accts.epicgames.com
 acdn.fantasy-rivals.com
@@ -839,6 +840,8 @@ asia.shop.battle.net
 asiagames.com
 asit.riverdark.net
 asmodee.com
+assetdelivery.roblox.com
+assetgame.roblox.com
 assets-cdn.games.la
 assets.staging01.albion.zone
 assets.xbox.com
@@ -1439,6 +1442,7 @@ c4.rbxcdn.com
 c5.rbxcdn.com
 c6.rbxcdn.com
 c7.rbxcdn.com
+c7.rbxcdn.com						
 c7i.ru
 c8.rbxcdn.com
 c9.rbxcdn.com
@@ -1683,6 +1687,7 @@ charlie-jeux.fr
 chart-broker.de
 charts.fleet.ubi.com
 charts.substrate.on.epicgames.com
+chat.roblox.com						
 chatalot.com
 chatfd.xboxlive.com
 chatra.io
@@ -1809,6 +1814,7 @@ clickmazes.com
 clicknplaygames.com
 clickshoot.fr
 client-download.steampowered.com
+client-telemetry.roblox.com
 client-update.akamai.steamstatic.com
 clientconfig.akamai.steamstatic.com
 clientconfig.rpg.riotgames.com
@@ -2800,8 +2806,10 @@ eclipse.cs.pdx.edu
 ecole-magie-elementa.forumactif.com
 ecommerce2.dm.origin.com
 ecommerceintegration-public-service-ecomprod02.ol.epicgames.com
+economy.roblox.com
 ecosec.on.epicgames.com
 ecournoyer.local.fleet.ubi.com
+ecsv2.roblox.com					
 edengame.net
 edengames.net
 edgeent.com
@@ -2940,6 +2948,7 @@ eoshelp.epicgames.com
 eosrugby.com
 eotl.org
 ephemeral.bebe.dev.use1a.on.epicgames.com
+ephemeralcounters.api.roblox.com
 epic-achievements-gamedev-assets.epicgames.com
 epic-aws-account-api.dead.dev.use1a.on.epicgames.com
 epic-backstage-backend.ci.ceee.dev.use1a.on.epicgames.com
@@ -3919,6 +3928,7 @@ freshpuzzles.com
 friends-public-service-prod06.ol.epicgames.com
 friends.dm.origin.com
 friends.gs.ea.com
+friends.roblox.com
 friskon.com
 friv-games.net
 friv.cm
@@ -4379,11 +4389,13 @@ gameinformer.com
 gameingdude.com
 gameinparis.com
 gameinsociety.com
+gameinternationalization.roblox.com	
 gameinvasion.comcast.net
 gameis.com
 gameitnow.com
 gamejacket.net
 gamejeux.com
+gamejoin.roblox.com					
 gamejokers.com
 gamejolt.com
 gamejoystick.com
@@ -4687,6 +4699,7 @@ games.rambler.ru
 games.rc-boite.com
 games.real.com
 games.renaultf1.com
+games.roblox.com					
 games.rtl.be
 games.rumoroso.com
 games.sc42.info
@@ -8065,6 +8078,7 @@ loadfreegames.com
 loathing2.com
 loc.actual.battle.net
 localarcade.com
+locale.roblox.com					
 localstrike.com.ar
 localstrike.net
 lockbox.ears.lt.ea.com
@@ -10169,6 +10183,7 @@ presence-internal-service-stage.social.dev.on.epicgames.com
 presence-public-service-lt.social.dev.on.epicgames.com
 presence-public-service-prod.social.live.on.epicgames.com
 presence-public-service-stage.social.dev.on.epicgames.com
+presence.roblox.com					
 presiglande.com
 pressplay.dk
 pressureforsteam.com
@@ -12140,6 +12155,7 @@ throkferoth-eu.warcrafter.net
 thsonicgames.com
 thugsstreet.fireblazehost.com
 thugwars.co.uk
+thumbnails.roblox.com
 thunderboltgames.com
 tiamat-web.com
 tiamat64.free.fr
@@ -13179,6 +13195,7 @@ vn2game.com
 voat.co
 vodo.net
 vogclub.com
+voice.roblox.com					
 void.andre-michelle.com
 voidu.com
 voituresjeux.com
