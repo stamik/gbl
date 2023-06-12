@@ -1,12 +1,16 @@
 360.fb.com
 360video.fb.com
 360videos.fb.com
+a.thumbs.redditmedia.com
 about.fb.com
 access.fb.com
 admin.youtube.com
+ads-api.reddit.com
 ads.youtube.com
 agencies.fb.com
 ai.fb.com
+alb.reddit.com
+amp.reddit.com
 apacpolicy.fb.com
 api.facebook.com
 api.instagram.com
@@ -44,6 +48,7 @@ australia.fb.com
 autodiscover.fb.com
 autodiscover.instagram.com
 autodiscover.thefacebook.com
+b.thumbs.redditmedia.com
 belajarmenjaga.fb.com
 bigzipfiles.facebook.com
 binario-f.fb.com
@@ -53,6 +58,7 @@ br.yearinreview.fb.com
 brasil.fb.com
 brazil.fb.com
 businesspartners.fb.com
+c.thumbs.redditmedia.com
 ca.newsroom.fb.com
 canary.assets.clips.twitchcdn.net
 canary.sage.twitchcdn.net
@@ -71,6 +77,7 @@ contentdistributionpolicies.fb.com
 contentdistributionpolicy.fb.com
 counterspeech.fb.com
 covid-survey.dataforgood.fb.com
+d.thumbs.redditmedia.com
 da-dk.facebookbrand-2018-dev.fb.com
 da-dk.facebookbrand-2018-preprod.fb.com
 da-dk.facebookbrand-2018-release.fb.com
@@ -114,6 +121,7 @@ ds1-uspreprod.fb.com
 ds1-usuat.fb.com
 ds2-dev.fb.com
 ds2-preprod.fb.com
+e.thumbs.redditmedia.com
 edu.fb.com
 education.fb.com
 ehrenamt.fb.com
@@ -155,7 +163,11 @@ eu-dev.fb.com
 eu-preprod.fb.com
 eu.fb.com
 europeanunion.fb.com
+events-test-v2.redditmedia.com
+events-test.redditmedia.com
 events.fb.com
+events.redditmedia.com
+f.thumbs.redditmedia.com
 f1-dev.fb.com
 f1-preprod.fb.com
 f1-uat.fb.com
@@ -194,6 +206,7 @@ fr.yearinreview.fb.com
 france.fb.com
 fs.fb.com
 fsoutpost.fb.com
+g.redditmedia.com
 gb.newsroom.fb.com
 germany.fb.com
 giftofgiving.fb.com
@@ -209,6 +222,7 @@ h.twitchcdn.net
 hacktober.fb.com
 hardquestions.fb.com
 hardquestionstour.fb.com
+i.redditmedia.com
 impara-dev.fb.com
 impara-preprod.fb.com
 impara-uat.fb.com
@@ -288,6 +302,7 @@ ltam.newsroom.fb.com
 m.facebook.com
 m.facebook.com--viewtrade-1218162.sayursayur.com
 m.fb.com-----------------read-terms.songsne.com
+m.reddit.com
 m.twitchcdn.net
 m.youtube.com
 madeby.fb.com
@@ -329,6 +344,7 @@ phabricatorfiles.intern.fb.com
 phabricatorfiles.internmc.fb.com
 philippines.fb.com
 pilipinas.fb.com
+pixel.reddit.com
 pl.facebookbrand-2018-dev.fb.com
 pl.facebookbrand-2018-preprod.fb.com
 pl.facebookbrand-2018-release.fb.com
@@ -1083,6 +1099,7 @@ www.lernen.fb.com
 www.live.fb.com
 www.m.facebook.com--viewtrade-1218162.sayursayur.com
 www.m.fb.com-----------------read-terms.songsne.com
+www.m.reddit.com
 www.madebyyou.fb.com
 www.managingbias.fb.com
 www.messenger.fb.com
