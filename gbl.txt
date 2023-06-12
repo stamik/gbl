@@ -261,6 +261,7 @@ acanomas.com
 accel.game.covetfashion.com
 access-any-website.com
 access.ears.lt.ea.com
+account-public-service-prod.ak.epicgames.com
 account-public-service-prod03.ol.epicgames.com
 account.alpha.ea.com
 account.battle.net
