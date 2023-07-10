@@ -141,6 +141,7 @@ go.smartadserver.com
 help.smartadserver.com
 helpsbc.smartadserver.com
 highwinds.cdneval.adnxs.com
+ib.adnxs.com
 imdb.amazon-adsystem.com
 ir-br.amazon-adsystem.com
 ir-ca.amazon-adsystem.com
