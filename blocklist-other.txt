@@ -186,6 +186,7 @@ prebid.fra1.adnxs.com
 prebid.lax1.adnxs.com
 prebid.nym2.adnxs.com
 prebid.sin3.adnxs.com
+prg.smartadserver.com
 production.api.adnxs.com
 proxy.adnxs.com
 prtg140j.internal.smartadserver.com
