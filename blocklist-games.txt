@@ -493,6 +493,7 @@ api.kws.ol.epicgames.com
 api.overwatchleague.com
 api.peakgames.net
 api.preprod.lockbox.ea.com
+api.steamchina.com
 api.steampowered.com
 api.twitch.tv
 api.wheel-of-games.com
@@ -1000,6 +1001,7 @@ blockwars.io
 blog-game.com
 blog-jeux.com
 blog.fr.playstation.com
+blog.quavergame.com
 blog.roblox.com
 blogazeroth.com
 blokus.com
@@ -1192,8 +1194,10 @@ ca1-webconf.ea.com
 caboucadin.com
 cache-cms-ext-eu.battle.net
 cache.gamercreated.com
+cache1-bts-slix.steamcontent.com
 cache1-lhr1.steamcontent.com
 cache1-par1.steamcontent.com
+cache2-bts-slix.steamcontent.com
 cache2-lhr1.steamcontent.com
 cache2-par1.steamcontent.com
 cache3-lhr1.steamcontent.com
@@ -1327,6 +1331,7 @@ cdn.prm.epicgames.com
 cdn.qstv.on.epicgames.com
 cdn.steamcommunity.com
 cdn.steampowered.com
+cdn.steamstatic.com
 cdn.store.steampowered.com
 cdn.superbwallpapers.com
 cdn.web.sweetim.com
@@ -7667,6 +7672,7 @@ oyuntrik.net
 oz-games200.com
 p-o-t.at
 p-pokemon.com
+p2p-fra1.discovery.steamserver.net
 p4f.alpha.lockbox.ea.com
 p50p.com
 pacman.gr
@@ -8402,6 +8408,7 @@ qplay.de
 qpuc.france3.fr
 quadgames.com
 quantiltest.static.cdn.ubi.com
+quavergame.com
 quedesjeux.com
 quejuegos.org
 quepicao.com
@@ -8744,6 +8751,7 @@ s1.i.m.ala.bz
 s11.i.m.ala.bz
 s13.i.m.ala.bz
 s2.i.m.ala.bz
+s2.quavergame.com
 s5.i.m.ala.bz
 s6.i.m.ala.bz
 s8.i.m.ala.bz
@@ -8817,6 +8825,7 @@ sciencereviewgames.com
 scorebaby.com
 scorejeuxflash.fr
 scorejeuxflash.free.fr
+scores.quavergame.com
 scorpion.startrek-rebellion.com
 scorpnabier.blogspot.com
 scory.com
@@ -8923,6 +8932,7 @@ shadows.wolfpaw.net
 shadowsiege.com
 shadowtale.com
 share-games.com
+shared.steamstatic.com
 sharedflashgames.com
 sharkattackgames.net
 sharkpie.com
@@ -9441,6 +9451,7 @@ steamcalc.de
 steamcardexchange.net
 steamcdn-a.akamaihd.net
 steamcharts.com
+steamcloud-dub.s3.dualstack.eu-west-1.amazonaws.com
 steamcommunity-a.akamaihd.net
 steamcommunity.com
 steamcompletionist.net
