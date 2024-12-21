@@ -61,6 +61,76 @@
 2001bonus.com
 2001jeux.com
 2001jeux.fr
+2024-12-20 19:08:27 	A	only-559937-95-105-230-195.nstool.easebar.com
+2024-12-20 19:09:27 	A	only-567102-95-105-230-195.nstool.easebar.com
+2024-12-20 19:10:27 	A	only-568155-95-105-230-195.nstool.easebar.com
+2024-12-20 19:10:50 	A	only-213212-95-105-230-195.nstool.easebar.com
+2024-12-20 19:15:16 	A	audiostatlog.cc.easebar.com
+2024-12-20 19:15:16 	A	inneraudioms.cc.easebar.com
+2024-12-20 19:16:21 	A	only-943728-95-105-230-195.nstool.easebar.com
+2024-12-20 19:17:21 	A	only-926784-95-105-230-195.nstool.easebar.com
+2024-12-20 19:18:21 	A	only-970761-95-105-230-195.nstool.easebar.com
+2024-12-20 19:19:21 	A	only-954381-95-105-230-195.nstool.easebar.com
+2024-12-20 19:20:21 	A	only-935990-95-105-230-195.nstool.easebar.com
+2024-12-20 19:21:23 	A	only-646604-95-105-230-195.nstool.easebar.com
+2024-12-20 19:22:23 	A	only-698717-95-105-230-195.nstool.easebar.com
+2024-12-20 19:23:23 	A	only-647383-95-105-230-195.nstool.easebar.com
+2024-12-20 19:24:23 	A	only-680483-95-105-230-195.nstool.easebar.com
+2024-12-20 19:25:23 	A	only-657571-95-105-230-195.nstool.easebar.com
+2024-12-20 19:26:25 	A	only-489701-95-105-230-195.nstool.easebar.com
+2024-12-20 19:27:25 	A	only-506325-95-105-230-195.nstool.easebar.com
+2024-12-20 19:28:25 	A	only-489974-95-105-230-195.nstool.easebar.com
+2024-12-20 19:29:25 	A	only-518066-95-105-230-195.nstool.easebar.com
+2024-12-20 19:30:06 	A	frankfurt-europewest-replayclient-x20na.easebar.com
+2024-12-20 19:30:07 	A	replay-storage-x20na.easebar.com
+2024-12-20 19:30:27 	A	only-335387-95-105-230-195.nstool.easebar.com
+2024-12-20 19:55:34 	A	drpf-x20na.proxima.nie.easebar.com
+2024-12-20 19:55:34 	A	who.easebar.com
+2024-12-20 19:55:34 	A	x20na.appdump.nie.easebar.com
+2024-12-20 19:55:34 	A	x20na.update.easebar.com
+2024-12-20 19:55:39 	A	bee.tc.easebar.com
+2024-12-20 19:55:39 	A	r.res.easebar.com
+2024-12-20 19:55:39 	A	x20na.gph.easebar.com
+2024-12-20 19:55:39 	A.com
+2024-12-20 19:55:40 	A	timejs.game.easebar.com
+2024-12-21 08:10:17 	A	drpf-x20na.proxima.nie.easebar.com
+2024-12-21 08:10:17 	A	who.easebar.com
+2024-12-21 08:10:17 	A	x20na.appdump.nie.easebar.com
+2024-12-21 08:10:17 	A	x20na.update.easebar.com
+2024-12-21 08:10:21 	A	x20na.gph.easebar.com
+2024-12-21 08:10:21 	A.com
+2024-12-21 08:10:22 	A	bee.tc.easebar.com
+2024-12-21 08:10:22 	A	r.res.easebar.com
+2024-12-21 08:10:23 	A	timejs.game.easebar.com
+2024-12-21 08:10:41 	A	s.q.easebar.com
+2024-12-21 08:10:46 	A	nstool.easebar.com
+2024-12-21 08:10:46 	A	only-85138-95-105-230-195.nstool.easebar.com
+2024-12-21 08:11:24 	A	applog.matrix.easebar.com
+2024-12-21 08:11:24 	A	g0.gsf.easebar.com
+2024-12-21 08:11:24 	A	mcount.easebar.com
+2024-12-21 08:11:24 	A	whoami.nie.easebar.com
+2024-12-21 08:11:42 	A	mgbjp-x20na.unisdk.easebar.com
+2024-12-21 08:11:43 	A	protocol.unisdk.easebar.com
+2024-12-21 08:11:44 	A	discord.easebar.com
+2024-12-21 08:11:45 	A	optsdk.gameyw.easebar.com
+2024-12-21 08:11:46 	A	nos.gameyw.easebar.com
+2024-12-21 08:11:46 	A	who.nie.easebar.com
+2024-12-21 08:11:55 	A	acsdk.gameyw.easebar.com
+2024-12-21 08:12:59 	A	audiostatlog.cc.easebar.com
+2024-12-21 08:12:59 	A	inneraudioms.cc.easebar.com
+2024-12-21 08:13:57 	A	only-760684-95-105-230-195.nstool.easebar.com
+2024-12-21 08:13:59 	A	sigma-performance-x20na.proxima.nie.easebar.com
+2024-12-21 08:14:57 	A	only-723843-95-105-230-195.nstool.easebar.com
+2024-12-21 08:15:57 	A	only-768949-95-105-230-195.nstool.easebar.com
+2024-12-21 08:16:57 	A	only-738573-95-105-230-195.nstool.easebar.com
+2024-12-21 08:17:59 	A	only-477697-95-105-230-195.nstool.easebar.com
+2024-12-21 08:18:59 	A	only-471070-95-105-230-195.nstool.easebar.com
+2024-12-21 08:19:59 	A	only-466687-95-105-230-195.nstool.easebar.com
+2024-12-21 08:20:59 	A	only-488314-95-105-230-195.nstool.easebar.com
+2024-12-21 08:21:18 	A	frankfurt-europewest-replayclient-x20na.easebar.com
+2024-12-21 08:21:18 	A	replay-storage-x20na.easebar.com
+2024-12-21 08:22:01 	A	only-243536-95-105-230-195.nstool.easebar.com
+2024-12-21 08:23:01 	A	only-205133-95-105-230-195.nstool.easebar.com
 2048game.com
 22rap.info
 247mahjong.com
@@ -243,6 +313,7 @@ acid-play.com
 acno.tv
 acplxbox.virgin.secure.ubi.com
 acps3.virgin.secure.ubi.com
+acsdk.gameyw.easebar.com
 action-soccer.de
 actionflash.com
 actionflash.net
@@ -508,6 +579,7 @@ aporjuegos.com
 app-hash-deploy.cbce.live.on.epicgames.com
 app-hash-deploy.fafe.dev.on.epicgames.com
 app.epicgames.com
+applog.matrix.easebar.com
 apprentisdieux.com
 approval-bot-3.eut.it.epicgames.com
 approval-bot-admin.eut.it.epicgames.com
@@ -848,6 +920,7 @@ becsil.ea.com
 becsil.integration.ea.com
 bee-happy.eu
 bee-world.fr
+bee.tc.easebar.com
 beearcade.com
 beegames.net
 beejeux.com
@@ -1565,6 +1638,7 @@ combines.io
 comcast.net
 comecocos.net
 cometgames-store.de
+comm.res.easebar.com
 commandandconquer.com
 comments.xboxlive.com
 communautes-jeux.fr.st
@@ -2024,6 +2098,7 @@ dirtybits.dm.origin.com
 dis.gd
 discord.co
 discord.com
+discord.easebar.com
 discord.gg
 discord.media
 discordapp.com
@@ -2229,6 +2304,7 @@ droppingblocks.nl
 dropyourgloves.com
 drosi.de
 drownedworld.de
+drpf-x20na.proxima.nie.easebar.com
 drugster.org
 drugworld.de
 ds-revolution.net
@@ -3430,6 +3506,7 @@ fyrebug.com
 fzh.info
 g-t-r.de
 g-wars.de
+g0.gsf.easebar.com
 g2a.com
 g2play.net
 g2space.com
@@ -6799,6 +6876,7 @@ mc-07.ea.com
 mc-ap.ea.com
 mc-na.ea.com
 mcleodgaming.com
+mcount.easebar.com
 mcrpg.com
 mcvideogame.com
 mdmdirector.eut.it.epicgames.com
@@ -6911,6 +6989,7 @@ metin-2.com
 metin2.fr
 metocas.com
 metrogames.com
+mgbjp-x20na.unisdk.easebar.com
 mgsoft.com
 mi4.ea.com
 mi5.ea.com
@@ -7426,6 +7505,7 @@ noodlecake.com
 noodlecake.net
 norwegianmafia.no
 nos-jeux.com
+nos.gameyw.easebar.com
 nosdevoirs.fr
 nostale-online.fr
 notdoppler.com
@@ -7447,6 +7527,7 @@ nowgamer.com
 nps.ea.com
 nrt-gw.vpn.cn.roblox.com
 ns1.valvesoftware.com
+nstool.easebar.com
 nucleus-2.ears.lt.ea.com
 nucleus-pulse.ea.com
 nucleus-pulse.integration.ea.com
@@ -7588,6 +7669,32 @@ onlinespiele.org
 onlinesupermario.com
 onlinezgames.com
 onlinovky.sk
+only-173094-95-105-230-195.nstool.easebar.com
+only-175027-95-105-230-195.nstool.easebar.com
+only-205471-95-105-230-195.nstool.easebar.com
+only-255392-95-105-230-195.nstool.easebar.com
+only-280261-95-105-230-195.nstool.easebar.com
+only-283372-95-105-230-195.nstool.easebar.com
+only-290327-95-105-230-195.nstool.easebar.com
+only-290700-95-105-230-195.nstool.easebar.com
+only-29164-95-105-230-195.nstool.easebar.com
+only-294728-95-105-230-195.nstool.easebar.com
+only-303816-95-105-230-195.nstool.easebar.com
+only-321207-95-105-230-195.nstool.easebar.com
+only-323422-95-105-230-195.nstool.easebar.com
+only-387-95-105-230-195.nstool.easebar.com
+only-501340-95-105-230-195.nstool.easebar.com
+only-514788-95-105-230-195.nstool.easebar.com
+only-518736-95-105-230-195.nstool.easebar.com
+only-551828-95-105-230-195.nstool.easebar.com
+only-595196-95-105-230-195.nstool.easebar.com
+only-634702-95-105-230-195.nstool.easebar.com
+only-742948-95-105-230-195.nstool.easebar.com
+only-784304-95-105-230-195.nstool.easebar.com
+only-804646-95-105-230-195.nstool.easebar.com
+only-836298-95-105-230-195.nstool.easebar.com
+only-836752-95-105-230-195.nstool.easebar.com
+only-911624-95-105-230-195.nstool.easebar.com
 only4gamers.com
 onlyaddictinggames.com
 onlyfreegames.narod.ru
@@ -7610,6 +7717,7 @@ opposing-force.org
 opposingforce.com
 opqa.com
 optifine.net
+optsdk.gameyw.easebar.com
 orangefoxgames.com
 orangegames.com
 orangegray.com
@@ -8287,6 +8395,7 @@ promu.fr
 pronoderby.net
 pronosoft.com
 prosiebengames.de
+protocol.unisdk.easebar.com
 protokid.com
 prototypegame.com
 proun-game.com
@@ -8431,6 +8540,7 @@ quizz.e-qcm.net
 quizzyflash.net
 quizzz.com
 quoverbis.com
+r.res.easebar.com
 r2games.com
 r6academy.ubi.com
 r6fix.ubi.com
@@ -8746,6 +8856,7 @@ rvpn01-us-lawe.ea.com
 rvpn01-us-orl.ea.com
 ryozanpaku.fr
 s.lolstatic.com
+s.q.easebar.com
 s.team
 s1.i.m.ala.bz
 s11.i.m.ala.bz
@@ -8988,6 +9099,7 @@ sideband.on.epicgames.com
 sideband.pulse.on.epicgames.com
 sierra.com
 siftheads.org
+sigma-performance-x20na.proxima.nie.easebar.com
 signiant.dam.ea.com
 signiant.test.dam.ea.com
 signin.ea.com
@@ -9948,6 +10060,7 @@ tiipsi.com
 tijeux.com
 tikchbila.com
 tileman.io
+timejs.game.easebar.com
 timekillgames.com
 timeofheroes.net
 timezero.ru
@@ -10730,6 +10843,9 @@ whatshouldisteam.com
 whatsinsidetheorangebox.com
 whdownload.com
 wheelsrepair.com
+who.easebar.com
+who.nie.easebar.com
+whoami.nie.easebar.com
 whosegame.com
 wiaderko.com
 wickedgoodgames.com
@@ -11012,6 +11128,9 @@ x-kings.com
 x-pressive.com
 x-wars.net
 x-woods.com
+x20na.appdump.nie.easebar.com
+x20na.gph.easebar.com
+x20na.update.easebar.com
 x3.shinobi.jp
 x3mgames.com
 x4.shinobi.jp
