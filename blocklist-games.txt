@@ -61,76 +61,6 @@
 2001bonus.com
 2001jeux.com
 2001jeux.fr
-2024-12-20 19:08:27 	A	only-559937-95-105-230-195.nstool.easebar.com
-2024-12-20 19:09:27 	A	only-567102-95-105-230-195.nstool.easebar.com
-2024-12-20 19:10:27 	A	only-568155-95-105-230-195.nstool.easebar.com
-2024-12-20 19:10:50 	A	only-213212-95-105-230-195.nstool.easebar.com
-2024-12-20 19:15:16 	A	audiostatlog.cc.easebar.com
-2024-12-20 19:15:16 	A	inneraudioms.cc.easebar.com
-2024-12-20 19:16:21 	A	only-943728-95-105-230-195.nstool.easebar.com
-2024-12-20 19:17:21 	A	only-926784-95-105-230-195.nstool.easebar.com
-2024-12-20 19:18:21 	A	only-970761-95-105-230-195.nstool.easebar.com
-2024-12-20 19:19:21 	A	only-954381-95-105-230-195.nstool.easebar.com
-2024-12-20 19:20:21 	A	only-935990-95-105-230-195.nstool.easebar.com
-2024-12-20 19:21:23 	A	only-646604-95-105-230-195.nstool.easebar.com
-2024-12-20 19:22:23 	A	only-698717-95-105-230-195.nstool.easebar.com
-2024-12-20 19:23:23 	A	only-647383-95-105-230-195.nstool.easebar.com
-2024-12-20 19:24:23 	A	only-680483-95-105-230-195.nstool.easebar.com
-2024-12-20 19:25:23 	A	only-657571-95-105-230-195.nstool.easebar.com
-2024-12-20 19:26:25 	A	only-489701-95-105-230-195.nstool.easebar.com
-2024-12-20 19:27:25 	A	only-506325-95-105-230-195.nstool.easebar.com
-2024-12-20 19:28:25 	A	only-489974-95-105-230-195.nstool.easebar.com
-2024-12-20 19:29:25 	A	only-518066-95-105-230-195.nstool.easebar.com
-2024-12-20 19:30:06 	A	frankfurt-europewest-replayclient-x20na.easebar.com
-2024-12-20 19:30:07 	A	replay-storage-x20na.easebar.com
-2024-12-20 19:30:27 	A	only-335387-95-105-230-195.nstool.easebar.com
-2024-12-20 19:55:34 	A	drpf-x20na.proxima.nie.easebar.com
-2024-12-20 19:55:34 	A	who.easebar.com
-2024-12-20 19:55:34 	A	x20na.appdump.nie.easebar.com
-2024-12-20 19:55:34 	A	x20na.update.easebar.com
-2024-12-20 19:55:39 	A	bee.tc.easebar.com
-2024-12-20 19:55:39 	A	r.res.easebar.com
-2024-12-20 19:55:39 	A	x20na.gph.easebar.com
-2024-12-20 19:55:39 	A.com
-2024-12-20 19:55:40 	A	timejs.game.easebar.com
-2024-12-21 08:10:17 	A	drpf-x20na.proxima.nie.easebar.com
-2024-12-21 08:10:17 	A	who.easebar.com
-2024-12-21 08:10:17 	A	x20na.appdump.nie.easebar.com
-2024-12-21 08:10:17 	A	x20na.update.easebar.com
-2024-12-21 08:10:21 	A	x20na.gph.easebar.com
-2024-12-21 08:10:21 	A.com
-2024-12-21 08:10:22 	A	bee.tc.easebar.com
-2024-12-21 08:10:22 	A	r.res.easebar.com
-2024-12-21 08:10:23 	A	timejs.game.easebar.com
-2024-12-21 08:10:41 	A	s.q.easebar.com
-2024-12-21 08:10:46 	A	nstool.easebar.com
-2024-12-21 08:10:46 	A	only-85138-95-105-230-195.nstool.easebar.com
-2024-12-21 08:11:24 	A	applog.matrix.easebar.com
-2024-12-21 08:11:24 	A	g0.gsf.easebar.com
-2024-12-21 08:11:24 	A	mcount.easebar.com
-2024-12-21 08:11:24 	A	whoami.nie.easebar.com
-2024-12-21 08:11:42 	A	mgbjp-x20na.unisdk.easebar.com
-2024-12-21 08:11:43 	A	protocol.unisdk.easebar.com
-2024-12-21 08:11:44 	A	discord.easebar.com
-2024-12-21 08:11:45 	A	optsdk.gameyw.easebar.com
-2024-12-21 08:11:46 	A	nos.gameyw.easebar.com
-2024-12-21 08:11:46 	A	who.nie.easebar.com
-2024-12-21 08:11:55 	A	acsdk.gameyw.easebar.com
-2024-12-21 08:12:59 	A	audiostatlog.cc.easebar.com
-2024-12-21 08:12:59 	A	inneraudioms.cc.easebar.com
-2024-12-21 08:13:57 	A	only-760684-95-105-230-195.nstool.easebar.com
-2024-12-21 08:13:59 	A	sigma-performance-x20na.proxima.nie.easebar.com
-2024-12-21 08:14:57 	A	only-723843-95-105-230-195.nstool.easebar.com
-2024-12-21 08:15:57 	A	only-768949-95-105-230-195.nstool.easebar.com
-2024-12-21 08:16:57 	A	only-738573-95-105-230-195.nstool.easebar.com
-2024-12-21 08:17:59 	A	only-477697-95-105-230-195.nstool.easebar.com
-2024-12-21 08:18:59 	A	only-471070-95-105-230-195.nstool.easebar.com
-2024-12-21 08:19:59 	A	only-466687-95-105-230-195.nstool.easebar.com
-2024-12-21 08:20:59 	A	only-488314-95-105-230-195.nstool.easebar.com
-2024-12-21 08:21:18 	A	frankfurt-europewest-replayclient-x20na.easebar.com
-2024-12-21 08:21:18 	A	replay-storage-x20na.easebar.com
-2024-12-21 08:22:01 	A	only-243536-95-105-230-195.nstool.easebar.com
-2024-12-21 08:23:01 	A	only-205133-95-105-230-195.nstool.easebar.com
 2048game.com
 22rap.info
 247mahjong.com
@@ -314,6 +244,7 @@ acno.tv
 acplxbox.virgin.secure.ubi.com
 acps3.virgin.secure.ubi.com
 acsdk.gameyw.easebar.com
+act.easebar.com
 action-soccer.de
 actionflash.com
 actionflash.net
@@ -350,6 +281,8 @@ adforgames.com
 adijuegos.com
 admin-tools-gamedev.on.epicgames.com
 admin-tools.on.epicgames.com
+admin.fp.ps.easebar.com
+admin.shence.easebar.com
 adminconnect.ubiservices.ubi.com
 admitme.tv
 adogames.com
@@ -418,6 +351,9 @@ agma.io
 agrisland.new.fr
 agyris.net
 ahkong.net
+ai-comment.edp.everdev.easebar.com
+ai-subscribe.edp.everdev.easebar.com
+aigc-hyxd.easebar.com
 aion.gameforge.com
 aionlinegames.com
 aiononline.com
@@ -450,6 +386,7 @@ alexm-game.com
 alexo.org
 alfy.com
 alidhan.net
+aliothjp-gcp.nie.easebar.com
 alivegames.net
 alkon.com.ar
 alleria.com
@@ -468,6 +405,7 @@ allkeyshop.com
 alltheflash.com
 allthegames.net
 alovestorygame.com
+alpha-global.h5.easebar.com
 alpha.link.ea.com
 alpha.pogo.ea.com
 alphabounce.com
@@ -556,8 +494,14 @@ aperturelabratories.com
 aperturescience.com
 apexwebgaming.com
 api-beta.steampowered.com
+api-data-classification.nie.easebar.com
+api-in.db.nie.easebar.com
+api-jarvis-storage.nie.easebar.com
+api-office.db.nie.easebar.com
 api-ubiservices.ubi.com
 api.accounts.nintendo.com
+api.appdump.x.easebar.com
+api.detect.nie.easebar.com
 api.easyanticheat.net
 api.ec.nintendo.com
 api.kws.ol.epicgames.com
@@ -574,11 +518,15 @@ api2.origin.com
 api3.origin.com
 api4.origin.com
 apis.rbxcdn.com
+apm.nie.easebar.com
 apocalypsis.org
 aporjuegos.com
+app-feedback-test.webapp.easebar.com
+app-feedback.webapp.easebar.com
 app-hash-deploy.cbce.live.on.epicgames.com
 app-hash-deploy.fafe.dev.on.epicgames.com
 app.epicgames.com
+appdump.nie.easebar.com
 applog.matrix.easebar.com
 apprentisdieux.com
 approval-bot-3.eut.it.epicgames.com
@@ -590,6 +538,14 @@ approval-bot.eut.it.epicgames.com
 approval-bot.it-entapps-dev.epicgames.com
 approval-bot.it.epicgames.com
 approval-bot.stage.it.epicgames.com
+apps-ali-sg.danlu.easebar.com
+apps-aws-l32euro.danlu.easebar.com
+apps-aws-l32us.danlu.easebar.com
+apps-aws-sg.danlu.easebar.com
+apps-gcp-jp.danlu.easebar.com
+apps-gcp-l36hmt.danlu.easebar.com
+apps-gcp-tw-l35hmt.danlu.easebar.com
+apps-gcp-tw.danlu.easebar.com
 apps.accounts.nintendo.com
 apptuts.net
 apuzzlezone.com
@@ -709,6 +665,8 @@ arenaturbo.ig.com.br
 aresgames.eu
 areth.org
 argentmagic.com
+arghus-es-jp-tmp.matrix.easebar.com
+arghus-es-jp.matrix.easebar.com
 arindel.free.fr
 arkadeo.com
 arkadium.com
@@ -739,6 +697,7 @@ asducrayon.com
 asf.justarchi.net
 asgame.fr
 ashavar.com
+ashfall-game.v.easebar.com
 asia-test-01.dc02.albion.zone
 asia.shop.battle.net
 asiagames.com
@@ -786,7 +745,9 @@ auth-rgl-prod.ros.rockstargames.com
 auth.api.sonyentertainmentnetwork.com
 auth.beta.ea.com
 auth.gog.com
+auth.nie.easebar.com
 auth.riotgames.com
+auth.unisdk.nie.easebar.com
 author-landing.dev.cq.ea.com
 author-landing.prod.cq.ea.com
 author-landing.test.cq.ea.com
@@ -818,6 +779,9 @@ awakenedworlds.net
 awesomehouseparty.com
 awfulgames.com
 awplanet.com
+aws-g92-smartai-gzailab.nie.easebar.com
+aws-jp-asr-gzailab.nie.easebar.com
+aws-jp-english-asr-gzailab.nie.easebar.com
 aws.amazon.com
 awsvpn.roblox.com
 axelgame.free.fr
@@ -834,6 +798,8 @@ b3ta.com
 b5.hc-gamer.de
 babygames.com
 babyvalley.co.uk
+backend-api.noah.nie.easebar.com
+backend.noah.nie.easebar.com
 backloggery.com
 backstage-backend.ci.pulse.dev.on.epicgames.com
 backstage-backend.gamedev.pulse.dev.on.epicgames.com
@@ -958,6 +924,7 @@ bestparoles.net
 beta.dam.ea.com
 beta.hq.ubi.com
 beta.link.ea.com
+betasystem-extranet.easebar.com
 betrayal.io
 betsoftgaming.com
 bf-games.net
@@ -1078,6 +1045,7 @@ blog.quavergame.com
 blog.roblox.com
 blogazeroth.com
 blokus.com
+blood-strike.v.easebar.com
 bloodbowl-game.com
 bloodwars.net
 bloodynation.com
@@ -1090,6 +1058,7 @@ bloxorzgame.com
 bloxorzunblocked.com
 bluebyte.de.ubi.com
 bluedojo.com
+bluefp.ps.easebar.com
 bluemaxima.org
 bluemonkeyarcade.com
 bluemud.sourceforge.net
@@ -1099,6 +1068,8 @@ bluesnews.com
 blzddist1-a.akamaihd.net
 blzmedia-a.akamaihd.net
 blzprofile.akamaized.net
+bmc2jp-int-tmp.matrix.easebar.com
+bmc2jp-int.matrix.easebar.com
 bmw-pace.com
 bmxgames123.com
 bnetcmsus-a.akamaihd.net
@@ -1128,6 +1099,7 @@ boomgames.com
 boonty.com
 boopass.com
 bootstrap.livefyre.com
+bootstrapjp-gcp.matrix.easebar.com
 booty-master.com
 bootyarcade.com
 boowaquoila.com
@@ -1211,6 +1183,7 @@ buenosjuegosgratis.com
 buffed.de
 bug.qplaygames.com
 buho21.com
+build-manager-web.nie.easebar.com
 buildabearville.com
 buildandfight.com
 buildanhtml5game.com
@@ -1267,6 +1240,7 @@ ca1-webconf.ea.com
 caboucadin.com
 cache-cms-ext-eu.battle.net
 cache.gamercreated.com
+cache.l30.leihuo.easebar.com
 cache1-bts-slix.steamcontent.com
 cache1-lhr1.steamcontent.com
 cache1-par1.steamcontent.com
@@ -1374,6 +1348,10 @@ cazatrucos.com
 cbr600f.eresmas.net
 cbseng-vip.ea.com
 cbsgames.com
+cc.easebar.com
+cc.res.easebar.com
+ccc-tool.leihuo.easebar.com
+ccna-voice.public.easebar.com
 ccs.gameservices.ea.com
 ccs.integration.gameservices.ea.com
 ccs.lt.gameservices.ea.com
@@ -1436,6 +1414,7 @@ cert-uplay.ubi.com
 cert.mea.orbit.bos.ea.com
 cert2-ubiservices.data.ubi.com
 ceskehry.cz
+cgbb.shenjiailab.easebar.com
 cgratuix.com02.com
 chainsawmaniac.com
 championshipmaster.free.fr
@@ -1639,6 +1618,7 @@ comcast.net
 comecocos.net
 cometgames-store.de
 comm.res.easebar.com
+comm.v.easebar.com
 commandandconquer.com
 comments.xboxlive.com
 communautes-jeux.fr.st
@@ -1659,6 +1639,7 @@ computergames.ro
 comunio.de
 concours2000.com
 confidentgamers.com
+config.inspector-ovs.easebar.com
 config.x.origin.com
 conflictnations.com
 confluence.it.epicgames.com
@@ -1676,6 +1657,7 @@ console-cdn.dm.origin.com
 console-life.com
 console.beef.live.use1a.on.epicgames.com
 console.dead.dev.use1a.on.epicgames.com
+console.fcount.easebar.com
 console.furetcompany.com
 consolegame.fr
 consolereport.ea.com
@@ -1806,6 +1788,8 @@ crossout.net
 crosspromotion.ubi.com
 crownclash-staging.epicgames.com
 crownclash.epicgames.com
+crproxy-in.easebar.com
+crproxy.easebar.com
 crt.orbit.bos.ea.com
 crucijuegos.com
 cruciverbia.com
@@ -1815,6 +1799,7 @@ crystalkeep.com
 crystalsquid.com
 cs-conditionzero.com
 cs-image-report.infosec.dev.on.epicgames.com
+cs-job.noah.nie.easebar.com
 cs.balticum-tv.lt
 cs.stalker-game.com
 cs.steampowered.com
@@ -1861,6 +1846,7 @@ cyberwar.net
 cyrogenix.de
 czeluscie.int.pl
 d-breath.com
+d-nstool.easebar.com
 d2mantix.com
 d3db.com
 dabontv.com
@@ -1878,6 +1864,7 @@ dailygames.com
 dailyindiegame.com
 dailymotion.com
 daimonin.net
+daisangoku.v.easebar.com
 dajuegos.com
 dakkadakka.com
 dal.gamib.com
@@ -1922,8 +1909,12 @@ dasproduction.it
 dasut.com
 data-asset-directory-public-service-prod.ol.epicgames.com
 data-asset-directory-public-service-stage.ol.epicgames.com
+data-detect-ipv6.nie.easebar.com
+data-detect-u5na.nie.easebar.com
+data-detect.nie.easebar.com
 data-orchestrator-admin-ci.dfca.dev.use1a.on.epicgames.com
 data-orchestrator-ci.dfca.dev.use1a.on.epicgames.com
+data-service.vega.nie.easebar.com
 data.riotgames.com
 data.ubi.com
 data1.origin.com
@@ -1950,7 +1941,10 @@ dayofdefeat3.com
 dayofdefeat3.net
 dayofdefeatmod.com
 dayofdefeattv.com
+dayu.gdc.nie.easebar.com
 dayzgame.com
+db-office.nie.easebar.com
+db.nie.easebar.com
 dbtrucos.com
 dbz-fantasy.com
 dbzgames.org
@@ -1958,6 +1952,7 @@ dc.darkside.ea.com
 dcegames.com
 dd-int.ea.com
 dden.discordia.org
+de.easebar.com
 de.reisen.yahoo.com
 de.socialclub.rockstargames.com
 de.spiele.yahoo.com
@@ -1973,6 +1968,7 @@ deathball.net
 deathmatchclassic.com
 deathnote-lejeu.com
 deathwalker.net
+debugging.hubble.nie.easebar.com
 decemuladores.com
 decerto.fr
 dedegames.com
@@ -2010,6 +2006,8 @@ demos.blackberry.com
 demosgratis.com
 denagames.com
 denaruto.com
+dep342-bigdata-presto-in.gameyw.easebar.com
+dep497-filecatch.nie.easebar.com
 deploy.roblox.com
 deploymentserver.splunk.it.epicgames.com
 deploymentserver.splunk.operations.it.epicgames.com
@@ -2030,6 +2028,7 @@ destinee-online.com
 destiny.nerp.net
 destinysphere.net
 desyeuxdesoreilles.com
+detect.nie.easebar.com
 detente-jeux.com
 deusex.forumchti.com
 deusx.com
@@ -2046,6 +2045,7 @@ dev.battle.net
 dev.dirtybits.api.origin.com
 dev.dirtybits.dm.origin.com
 dev.epicgames.com
+dev.g83.game.easebar.com
 dev.terraform.on.epicgames.com
 dev.vault.substrate.on.epicgames.com
 dev.www.x.origin.com
@@ -2121,6 +2121,7 @@ djuego.com
 dk-games.info
 dkick.net
 dkmegasite.retrogames.com
+dl.nstool.easebar.com
 dl.substrate.on.epicgames.com
 dl.tnt.gameforge.com
 dl1.emulcenter.net
@@ -2131,7 +2132,11 @@ dld-3.tomsgames.net
 dld-5.tomsgames.net
 dld-7.tomsgames.net
 dlgamer.com
+dm-ex.nie.easebar.com
+dm-in.nie.easebar.com
 dmaland.ru
+dmbi.dmdata.easebar.com
+dmdata.easebar.com
 dmg8bit.appspot.com
 dna-dev.ea.com
 dna-live.ubi.com
@@ -2140,9 +2145,11 @@ dna-stage.ea.com
 dna-test.ea.com
 dob5.com
 dobi.nu
+docker-registry-us.l28.easebar.com
 docker.dc03.albion.zone
 docker.ent.ea.com
 dockgames.com
+docs-en.infra.nie.easebar.com
 docs.aabd.dev.use1a.on.epicgames.com
 docs.fcfd.live.use1a.on.epicgames.com
 docsiteassets.roblox.com
@@ -2270,6 +2277,7 @@ dreamcatchergames.com
 dreamcatcherinteractive.com
 dreamdimension.de
 dreaming.dk
+dreammaker.easebar.com
 dreams.daestroke.com
 dreamsmud.com
 dressandplay.com
@@ -2299,11 +2307,13 @@ drole.ch
 drolesdejeux.fr
 dromble.com
 drommeholdet.dk
+drop.oncehuman.easebar.com
 dropkickthefaint.com
 droppingblocks.nl
 dropyourgloves.com
 drosi.de
 drownedworld.de
+drpf-test.proxima.nie.easebar.com
 drpf-x20na.proxima.nie.easebar.com
 drugster.org
 drugworld.de
@@ -2324,6 +2334,7 @@ dukertcm.com
 dum.acc.umu.se
 dumadugames.com
 dummfrosch.de
+dump.easebar.com
 dune.meat.cx
 dunepbem.tripod.com
 dungeon-prophetie.darkbb.com
@@ -2361,6 +2372,11 @@ eamobile.com
 eamobilitydev.ea.com
 earsvpn.ea.com
 earthlost.de
+easepublish-admin-int.nie.easebar.com
+easepublish-admin-tmp.nie.easebar.com
+easepublish-admin.nie.easebar.com
+easepublish-tmp.nie.easebar.com
+easepublish.nie.easebar.com
 easo.alpha.ea.com
 easo.beta.ea.com
 easo.ea.com
@@ -2419,6 +2435,7 @@ egames.ajeeb.com
 egamesonline.com
 egcvpn.epicgames.com
 egcvpn2.epicgames.com
+eggyparty.v.easebar.com
 egosoft.com
 egpi-filter-dev.ecosec.on.epicgames.com
 egpi-filter-prod.ecosec.on.epicgames.com
@@ -2461,6 +2478,8 @@ elite-games.net
 elitegamersx360.roxorgamers.com
 elitespill.no
 eljoystick.com
+elk-overseas.nie.easebar.com
+elk-saas-overseas.nie.easebar.com
 elkspel.nl
 ellaswar.com
 ellosnuncaloharian.com
@@ -2494,6 +2513,9 @@ emutotal.com
 emuwizards.com
 emuxperts.net
 en.nurogames.com
+ena-acsdk-u5-dev.gameyw.easebar.com
+ena-acsdk-u5-ingress.gameyw.easebar.com
+ena-acsdk-u5.gameyw.easebar.com
 enchantedgames.net
 endbossgames.com
 eneba.com
@@ -2617,6 +2639,8 @@ ev.io
 evanesco.actifforum.com
 evefans.cn
 evengamen.nl
+event.sc.easebar.com
+event.shence.easebar.com
 events.gameforge.com
 events.roblox.com
 eveonline.com
@@ -2639,6 +2663,7 @@ evony.com
 evowars.io
 evoworld.io
 ex-designz.net
+exacenter-tianhu.gdc.nie.easebar.com
 excalibur.com
 exceljuegos.com
 excellent-onlinecasinos.com
@@ -2722,7 +2747,10 @@ fatal-vortex.de
 fatestaynight.japanbar.net
 fatgamer.com
 fatratgames.com
+fb-avatar-agent.webapp.easebar.com
+fb-dev.webapp.easebar.com
 fb.preprod.lockbox.ea.com
+fb.webapp.easebar.com
 fc.qa.atom.dm.origin.com
 fc.qa.autopatch.dm.origin.com
 fc.qa.avatar.dm.origin.com
@@ -2733,11 +2761,22 @@ fc.qa.er.dm.origin.com
 fc.qa.www.origin.com
 fdcmuck.gushi.org
 fdjeux.com
+feature.noah.nie.easebar.com
 fecs.ea.com
 fecs.integration.ea.com
 fecsil.ea.com
 fecsil.integration.ea.com
 federationspace-rpg.com
+fee-oversea-api2-tokyo-001-console-server.nie.easebar.com
+fee-oversea-api2-tokyo-002-console-server.nie.easebar.com
+fee-oversea-api2-tokyo-003-console-server.nie.easebar.com
+fee-oversea-api2-tokyo-004-console-server.nie.easebar.com
+fee-oversea-web-console.nie.easebar.com
+feedback-ovs.fp.ps.easebar.com
+feedback-system-dev.webapp.easebar.com
+feedback-system.webapp.easebar.com
+feedback-web-test.webapp.easebar.com
+feedback-web.webapp.easebar.com
 feemail.ea.com
 feemail.integration.ea.com
 feenix.de
@@ -2781,6 +2820,7 @@ fiftylondon.com
 fighting-club.com
 filarn.com
 filebomb.com
+filecatch.nie.easebar.com
 filefront.com
 fileplanet.com
 files-2.tomsgames.net
@@ -3074,6 +3114,7 @@ foote.free.fr
 footexpert.net
 footkorner.com
 footystar.bravehost.com
+foralltime-tw.v.easebar.com
 forcrost.free.fr
 forgeofempires.com
 forgeonyxia.be
@@ -3197,6 +3238,7 @@ forums.preprod.starwars.ea.com
 forums.steampowered.com
 forums.test.battlefront.starwars.ea.com
 forums.test.galaxy-of-heroes.starwars.ea.com
+fotalltime-jp.v.easebar.com
 fou2jeux.com
 foudjeux.com
 fouinmasta.free.fr
@@ -3208,6 +3250,7 @@ foxgame.org
 foxglove.tonsite.biz
 foxjeux.com
 foxkids.com
+fp.ps.easebar.com
 fpsbanana.com
 fpt2008.com
 fr-minecraft.net
@@ -3227,6 +3270,9 @@ fr.zibbo.com
 fr2db.fr
 fract.org
 fractal.leet.net.au
+frankfurt-europewest-replayclient-x20na.easebar.com
+frankfurt-europewest-replayclientloadtest-x20na.easebar.com
+frankfurt-europewest-replayclienttest-x20na.easebar.com
 fraud.shop.battle.net
 fred.ba.free.fr
 free-chess.net
@@ -3507,12 +3553,57 @@ fzh.info
 g-t-r.de
 g-wars.de
 g0.gsf.easebar.com
+g104na-13.gph.easebar.com
+g106-asia-east1-vip.easebar.com
+g108-14.update.easebar.com
+g108na-14.gph.easebar.com
+g108na-14.update.easebar.com
+g108na-announcement.h5.easebar.com
+g10hmt.chatbot.easebar.com
+g10jp.chatbot.easebar.com
+g112na-14.gph.easebar.com
+g112na-cn-hmt-normal-a.logincenter.nie.easebar.com
+g112na-cn-hmt-normal-b.logincenter.nie.easebar.com
+g112na-cn-kelongzhan-experience.logincenter.nie.easebar.com
+g112na-cn-lqa-test.logincenter.nie.easebar.com
+g112na-cn-sydney-experience.logincenter.nie.easebar.com
+g112na-cn-zian-audit.logincenter.nie.easebar.com
+g112na-jp-normal-a.logincenter.nie.easebar.com
+g112na-jp-normal-b.logincenter.nie.easebar.com
+g112na-me-experience.logincenter.nie.easebar.com
+g112na-na-experience.logincenter.nie.easebar.com
+g112na-na-google-audit.logincenter.nie.easebar.com
+g112na-pre.gdl.easebar.com
+g112na.hmt-https-dianjing.nie.easebar.com
+g125na-obt.frostpunk.easebar.com
+g125na-stress-int.frostpunk.easebar.com
+g125na-test.frostpunk.easebar.com
+g138-14.gdl.easebar.com
+g29-114.gdl.easebar.com
+g29-14.gdl.easebar.com
+g29-14.gph.easebar.com
+g29.gdl.easebar.com
 g2a.com
 g2play.net
 g2space.com
+g37na-14.gdl.easebar.com
+g37na-14.gph.easebar.com
 g4tv.com
 g5.dk
+g51hmt.voice.nie.easebar.com
 g60g.com
+g60hmt.voice.nie.easebar.com
+g67ena.appdump.nie.easebar.com
+g83-codehub.easebar.com
+g83-microservice-prod.nie.easebar.com
+g83-xlch.gzailab.easebar.com
+g92-pve-verify-cffi-sjp-envoy.gzailab.easebar.com
+g92-stickimage-sjp-envoy.gzailab.easebar.com
+g92-verify-cffi-oversea.gzailab.easebar.com
+g92test.pyq.easebar.com
+g92tw.pyq.easebar.com
+g99naxx1jp-10001-member.easebar.com
+g99naxx2hmt-10002-member.easebar.com
 g9g.com
 gadcity.com
 gagner-jeux-loteries-euro.com
@@ -3611,6 +3702,7 @@ gameanalytics.com
 gamearena.fr
 gameark.com
 gameatopia.com
+gameaudio.oversea.easebar.com
 gameaxis.com
 gameaxle.com
 gamebadger.com
@@ -3655,6 +3747,7 @@ gamecircus.com
 gamecity.co.uk
 gamecloud.com
 gamecloud.j2play.net
+gamecloud.nie.easebar.com
 gamecloud.nl
 gamecodecity.com
 gamecolony.com
@@ -4518,6 +4611,7 @@ garena.com
 gargul.com
 garotapopular.com
 garoumush.org
+gate.push.x.easebar.com
 gatesofsurvival.com
 gateway-2.ears.lt.ea.com
 gateway.discord.gg
@@ -4528,6 +4622,9 @@ gateway2s.ears.lt.ea.com
 gateway2s.int.ea.com
 gator.fr
 gawd.io
+gbauth-int.nie.easebar.com
+gbauth-tmp.nie.easebar.com
+gbauth.nie.easebar.com
 gdrfantasy.it
 gds1.steampowered.com
 gds2.steampowered.com
@@ -4579,6 +4676,8 @@ giantvegas.com
 gidierre.net
 giercuj.pl
 gierkionline.pl
+giftcode.webcampaign.easebar.com
+giftcodetest.webcampaign.easebar.com
 gilboo.jeux.free.fr
 gimigames.com
 gimme5games.com
@@ -4644,6 +4743,7 @@ glenrhodes.com
 glimmergames.com
 glloq666.free.fr
 gload.cc
+global-cs.gameyw.easebar.com
 global.gryphon.battle.net
 globalfun.com
 globalgamenetwork.com
@@ -4655,7 +4755,9 @@ gloireetpouvoir.com
 gloireimperiale2.superforum.fr
 glor.io
 glu.com
+gmall.easebar.com
 gmaxskateboarding.com
+gmgate-jp.pushv3.easebar.com
 gmtgames.com
 gmxnet.zarenkriege.de
 gnoodiplo.net
@@ -4741,6 +4843,7 @@ gr8xcape.com
 grab.com
 grafana-eos-dev.on.epicgames.com
 grafana-eos.on.epicgames.com
+grafana.monitor.nie.easebar.com
 graffiti.net
 gralon.net
 gramy.org
@@ -4794,6 +4897,7 @@ grydla-dzieci.pl
 grylogiczne.onet.pl
 gs1.net
 gsdemo.com
+gsdev.easebar.com
 gta-4.fr
 gtaforums.com
 gtagame.com
@@ -4827,6 +4931,20 @@ gusandco.net
 gwpapi.ea.com
 gx-mod.com
 gyrne.de
+h42hmt-voice.public.easebar.com
+h42hmt-voice2.public.easebar.com
+h42vn.update.easebar.com
+h55na-h5-preview.easebar.com
+h55na-h5-prod.easebar.com
+h67naxx2gb-replay-gcp-test-out.easebar.com
+h67naxx2gb-replay-normal-out.easebar.com
+h67naxx2gb-replay-testing-out.easebar.com
+h72-ms-compliance.easebar.com
+h72-ms-iosaudit.easebar.com
+h72-ms-ioslaunch.easebar.com
+h72naxx2gb-ms-na-jingxiang.easebar.com
+h72naxx2gb-ms-na-prod.easebar.com
+h73na-14.gdl.easebar.com
 habbo.ca
 habbo.cl
 habbo.com
@@ -5083,7 +5201,10 @@ hryzdarma.sk
 ht83.com
 htfgames.com
 html5games.net
+http-proxy.kk3na.easebar.com
+httpdns.nie.easebar.com
 hubanie.fr.st
+hubble.nie.easebar.com
 hublo.com
 hublo.julienmoya.com
 hugames.fr
@@ -5127,6 +5248,7 @@ icefighter.de
 icewars.de
 iconoclast.org
 id.sonyentertainmentnetwork.com
+identityv.v.easebar.com
 ideo-lejeu.com
 idiotpages.com
 idleworm.com
@@ -5196,7 +5318,9 @@ imperiumao.com.ar
 imperiumgames.com.ar
 imperius.fr
 impossiblequizunblocked.com
+impression.update.easebar.com
 imvu.com
+in-appdump.nie.easebar.com
 in.com
 in.metamx.com
 incgamers.com
@@ -5214,8 +5338,13 @@ industrie-land.net
 industryplayer.com
 inetplay.de
 infendo.com
+infiniteborders-kr.v.easebar.com
+infinitebordersgame.v.easebar.com
+infinitelagrange.v.easebar.com
 infinitybladegame.com
 inflash.com
+influxdbjp-temp.matrix.easebar.com
+influxdbjp.matrix.easebar.com
 info-game.net
 info-jeux.fr
 informatist.net
@@ -5241,12 +5370,20 @@ insideplaystation.com
 insight.director-3d.com
 insightvm.it.epicgames.com
 insociables.com
+inspector-ovs.easebar.com
 install.gameforge.com
 installer.ega.ol.epicgames.com
 installer.gamedev.ega.ol.epicgames.com
 instant-gaming.com
 instantunblock.com
 insulaner-online.de
+int-fee-oversea-api2-tokyo-001-console-server.nie.easebar.com
+int-fee-oversea-api2-tokyo-002-console-server.nie.easebar.com
+int-oversea-api2-tokyo-001-console-server.nie.easebar.com
+int-oversea-api2-tokyo-002-console-server.nie.easebar.com
+int-oversea-api2-tokyo-003-console-server.nie.easebar.com
+int-oversea-api2-tokyo-004-console-server.nie.easebar.com
+int-test-oversea-api2-tokyo-011-console-server.nie.easebar.com
 integration.atom.dm.origin.com
 integration.autopatch.dm.origin.com
 integration.avatar.dm.origin.com
@@ -5291,6 +5428,9 @@ iogames.space
 ios.modernwar-game.com
 ioswarning.com
 iotp.net
+iowa-uscentral-replayclient-x20na.easebar.com
+iowa-uscentral-replayclientloadtest-x20na.easebar.com
+iowa-uscentral-replayclienttest-x20na.easebar.com
 ipadd.fr
 ipaddress.com
 ipdb.org
@@ -5330,6 +5470,7 @@ it.slackbot.legacy.it.epicgames.com
 it.socialclub.rockstargames.com
 itchanatchones.com
 itexpressions.com
+itfw.gameit.easebar.com
 itsnotbadatall.com
 itsyourturn.com
 ittm-manager.com
@@ -5393,6 +5534,11 @@ jejoue.fr
 jekt.fr
 jellygames.com
 jellyjumper.com
+jellyplus-admin-int.nie.easebar.com
+jellyplus-admin-tmp.nie.easebar.com
+jellyplus-admin.nie.easebar.com
+jellyplus-tmp.nie.easebar.com
+jellyplus.nie.easebar.com
 jenkins.3lateral-dev.it.epicgames.com
 jenkins.dabe.live.use1a.on.epicgames.com
 jenkins.dhtech-prod.it.epicgames.com
@@ -6205,6 +6351,9 @@ kadets.ru
 kado.fr
 kadokado.com
 kadopoly.fr
+kafkaapi-in.gdc.nie.easebar.com
+kafkaapi-tailer.nie.easebar.com
+kaihoukukan-overfield.v.easebar.com
 kaisergames.de
 kakuros.fr
 kallistimud.com
@@ -6227,6 +6376,7 @@ kdoclick.com
 kdoking.com
 keepbusy.net
 keeptrackofmygames.com
+kefu.easebar.com
 kejuegos.com
 kekma.net
 kekuko.com
@@ -6353,6 +6503,7 @@ kizikizi2.com
 kjcgames.com
 klekmania.com
 klootz.com
+km.res.easebar.com
 kneoworld.com
 knightfight.fr
 knighthawk.de
@@ -6361,6 +6512,9 @@ knights.pl
 knightsdivine.de
 knightsofchaos.com
 knightsofember.com
+knives-out.v.easebar.com
+knivesout-en.v.easebar.com
+knivesout.v.easebar.com
 knowledgeadventure.com
 ko.socialclub.rockstargames.com
 koala-ci.fnsocial.on.epicgames.com
@@ -6422,6 +6576,30 @@ kws-integration-service-lt.faba.dev.use1a.on.epicgames.com
 kws-integration-service-prod.aafb.live.use1a.on.epicgames.com
 kyucon.com
 kzam.ig.com.br
+l10hmtxxak-island.tms.easebar.com
+l10hmtxxak-package.tms.easebar.com
+l10hmtxxak-serverlist.tms.easebar.com
+l10vn-island.tms.easebar.com
+l10vn-public.tms.easebar.com
+l10vn-serverlist.tms.easebar.com
+l10vn-teleport.leihuo.easebar.com
+l28-ms-filetrans.easebar.com
+l28na-filetrans.easebar.com
+l30dump.leihuo.easebar.com
+l30na-ftp.easebar.com
+l30na-web-test.easebar.com
+l30na-web.easebar.com
+l33au-test-update.leihuo.easebar.com
+l33hmt-test-update.leihuo.easebar.com
+l33na-lb.leihuo.easebar.com
+l33na-test-update.leihuo.easebar.com
+l33sg-gamerecord-ph.l33naobj.leihuo.easebar.com
+l33sg-gamerecord-sg.l33naobj.leihuo.easebar.com
+l33us-test-update.leihuo.easebar.com
+l35as-admin.leihuo.easebar.com
+l35as-ftp.leihuo.easebar.com
+l35hmt.easebar.com
+l36hmt.sgfp.ps.easebar.com
 l4d.com
 l4d.es
 l4d2.com.cn
@@ -6477,6 +6655,8 @@ lazyreptile.com
 lb-lt-tgt-rdv-http.ubi.com
 lb-tgt-rdv-http.ubi.com
 lb-tgt2-rdv-http.ubi.com
+lb2-monitor.leihuo.easebar.com
+lb2na-etcd-client.easebar.com
 lbgserver.com
 ldagames.com
 ldap01.abn-iad.ea.com
@@ -6569,6 +6749,7 @@ level3.ssl.blizzard.com
 levelsmack.com
 levelupgames.uol.com.br
 lexaloffle.com
+lh3na-opsapi.leihuo.easebar.com
 lhr-edge.ea.com
 lhr-webapp.ea.com
 lhr-webconf.ea.com
@@ -6581,6 +6762,9 @@ licensee-mgmt-portal.it-entapps-dev.epicgames.com
 licensee-mgmt-portal.it.epicgames.com
 licensee-mgmt-portal.stage.it.epicgames.com
 lich-king.de
+lifeafter-jp.v.easebar.com
+lifeafter-tw.v.easebar.com
+lifeafter.v.easebar.com
 lifequestgame.com.ikoula.com
 ligadosgames.com
 ligaf1pit-lane.com
@@ -6608,6 +6792,8 @@ lion3d.com
 lionhead.com
 liquidarcade.com
 liquidgeneration.com
+list.easebar.com
+listerr.nie.easebar.com
 littleshinyobjects.com
 live360.fr
 livebackgammon.de
@@ -6633,6 +6819,8 @@ lockwall.xyz
 lofd.de
 loft.it.epicgames.com
 logame.94secondes.com
+loghub.gdc.nie.easebar.com
+loghub.nie.easebar.com
 logiccollisiongames.com
 login.developer.ea.com
 login.ea.com
@@ -6658,6 +6846,8 @@ lonelycatgames.com
 looki.de
 lookup-api.art-pipeline-prod-us-east-1.it.epicgames.com
 looland.forumactif.com
+lootbar-test-gcp.webapp.easebar.com
+lootbar.webapp.easebar.com
 lootboy.de
 lootcrate.com
 loraly.com
@@ -6673,6 +6863,7 @@ lost-realms.org
 lostjungle.com
 lostvectors.com
 lotgd.esport-network.de
+lotr-risetowar.v.easebar.com
 lotree.com
 lotro.fr
 lotrosupport.codemasters.com
@@ -6680,6 +6871,7 @@ loungin.net
 loups-garous-en-ligne.com
 love.lalie.free.fr
 love4game.com
+lovebrushchronicles.v.easebar.com
 lovecalculator.be
 lovecoca.in.eu.org
 lovefreegames.com
@@ -6734,6 +6926,23 @@ m0rkeulv.net
 m520.free.fr
 m6jeux.fr
 ma-bimbo.com
+ma104naobtgs.nie.easebar.com
+ma104naobtship.nie.easebar.com
+ma128-cbt.easebar.com
+ma128-review.easebar.com
+ma128hmt-2000.easebar.com
+ma128hmt-test-2000.easebar.com
+ma128hmt-test-300.easebar.com
+ma128na-review.easebar.com
+ma128na-test-500.easebar.com
+ma128na-test-600.easebar.com
+ma128na-test-9000.easebar.com
+ma128na.easebar.com
+ma154na-normal-center.easebar.com
+ma167naxx1kr-admin-normal.easebar.com
+ma167naxx1kr-game-normal.easebar.com
+ma167naxx1kr-info-normal.easebar.com
+ma172-ios-review.easebar.com
 mabelleferme.fr
 maboiteajeux.com
 macgamefiles.com
@@ -6840,7 +7049,10 @@ mars-apigw.it.epicgames.com
 mars-apigw.stage.it.epicgames.com
 marsball.fr
 marsbattle.com
+marsjp-gcp.nie.easebar.com
 marvelheros.free.fr
+marvelmysticmayhem.v.easebar.com
+marvelrivals.v.easebar.com
 masjuegos.com
 masjuegosflash.com
 masquejuegos.es
@@ -6879,6 +7091,9 @@ mcleodgaming.com
 mcount.easebar.com
 mcrpg.com
 mcvideogame.com
+md.pm2hmt.easebar.com
+md.pm2jp.easebar.com
+md.pm2naxx1kr.easebar.com
 mdmdirector.eut.it.epicgames.com
 mdsgames.com
 meaburro.com
@@ -6964,6 +7179,7 @@ metacritic.com
 metadata-dev.gamepass.com
 metadata-ppe.gamepass.com
 metadata.gamepass.com
+metadata.noah.nie.easebar.com
 metadatagames.org
 metaface-test.hyprsense-dev.it.epicgames.com
 metaface.hyprsense-dev.it.epicgames.com
@@ -6990,12 +7206,14 @@ metin2.fr
 metocas.com
 metrogames.com
 mgbjp-x20na.unisdk.easebar.com
+mgbsdkjp.matrix.easebar.com
 mgsoft.com
 mi4.ea.com
 mi5.ea.com
 mi7.ea.com
 mi8.ea.com
 mi9.com
+micro.unisdk.nie.easebar.com
 microgaming.com
 microjeux.com
 microjogos.com
@@ -7100,6 +7318,8 @@ mitternachtsgarten.de
 mixer.com
 mixfight.ru
 mixmaster.fr
+ml-engine.noah.nie.easebar.com
+ml.noah.nie.easebar.com
 mlgame.co.uk
 mlgame.cz
 mlgame.de
@@ -7152,6 +7372,7 @@ mondespersistants.com
 mondocarto.com
 mondocuisto.com
 monecureuil.com
+monitor.nie.easebar.com
 monkeon.co.uk
 monkey-land.net
 monkeybriefs.com
@@ -7186,6 +7407,7 @@ moreroms.com
 moria.cz
 morneplaine.com
 mortalrealms.com
+mos.easebar.com
 moshimonsters.com
 mostfungame.com
 mostfungames.com
@@ -7206,6 +7428,9 @@ moviewatcher.to
 movilgamers.com
 moviljuegospremium.com
 movinstream.com
+mpay-os-admin.webapp.easebar.com
+mpay-os-translate.webapp.easebar.com
+mpay-social-test.webapp.easebar.com
 mpgun.com
 mpogd.com
 mrcameleon.com
@@ -7330,6 +7555,7 @@ na-sjc-pool.ea.com
 na.leagueoflegends.com
 na.lvlt.sims3store.cdn.ea.com
 nacionarcade.net
+nadctools.easebar.com
 nadigame.com
 nadirim.com
 nainternaute.com
@@ -7356,6 +7582,8 @@ nawakim.com
 nbstuff.com
 ncc.spod.org
 nchess.com
+ncr-canary.nie.easebar.com
+ncr.nie.easebar.com
 ncsa-storm.ubi.com
 ncsoft.com
 ncsx.wordpress.com
@@ -7369,6 +7597,7 @@ needforspeed.com
 needforspeedcarbon.fr
 neelps.net
 neigevillage.forumactif.com
+nekocrush-parameter-serving.easebar.com
 nelderim.org
 nelly-service-prod-akamai.ecosec.on.epicgames.com
 nelly-service-prod-cloudflare.ecosec.on.epicgames.com
@@ -7446,6 +7675,13 @@ nfs5.gamesweb.com
 nfsw-stg-vip.ea.com
 nfswebapi.ea.com
 ngi.it
+nglbs-in.nie.easebar.com
+nglbs-maps-overseas.nie.easebar.com
+nglbs-test-in.nie.easebar.com
+nglbs-test.nie.easebar.com
+nglbs.nie.easebar.com
+nglobby-beta-gate.nie.easebar.com
+nglobby-beta-login.nie.easebar.com
 ngswing.com
 nianticlabs.com
 nibelung.sytes.net
@@ -7489,6 +7725,7 @@ nitroplayer.com
 nitroserv.com
 no1games.com
 no2games.com
+noah.nie.easebar.com
 nobleflash.com
 nodeka.com
 nodeunblock.herokuapp.com
@@ -7511,6 +7748,7 @@ nostale-online.fr
 notdoppler.com
 note2self.co.uk
 nothingtodo.co.uk
+notice.webcampaign.easebar.com
 notification-center-demo-npm.epicgames.com
 notifications-pusher.gog.com
 notify.gameservices.ea.com
@@ -7555,15 +7793,20 @@ oberon-media.com
 objectiftest.com
 obsidian.net
 occamygames.com
+ocean-admin.gameyw.easebar.com
 ocean-life.org
+ocean.easebar.com
 oceanbreezegames.com
 octogames.fr
+octopathsp-en.v.easebar.com
+octopathsp-ko.v.easebar.com
 oddgames.com.au
 odelion.fr
 odixea.altervista.org
 ods.ods.net
 oembed.leagueoflegends.com
 ofb.ears.lt.ea.com
+office-test.unisdk.nie.easebar.com
 officegamefiles.com
 officegamespot.com
 officiallybored.net
@@ -7599,12 +7842,17 @@ oliverpearl.com
 olympiaquest.com
 om.elvenar.com
 omaha.gos.ea.com
+omega.gdc.nie.easebar.com
+omega.nie.easebar.com
+omega01-whales-proxima.ntes53.easebar.com
 omegle.com
 omegle.onl
 omgpop.com
 on57.com
+oncehuman.v.easebar.com
 ondarun.com
 ondarun2.com
+onehub-test.unisdk.nie.easebar.com
 onemilliongames.com
 onemorelevel.com
 onemotion.com
@@ -7627,6 +7875,7 @@ online-gold.de
 online-jogos-gratis.com
 online-skatclub.de
 online-spiele.org
+online.g83.game.easebar.com
 online3dgames.net
 onlinebestgames.com
 onlineblackjack-australia.com
@@ -7717,11 +7966,13 @@ opposing-force.org
 opposingforce.com
 opqa.com
 optifine.net
+optsdk-test.gameyw.easebar.com
 optsdk.gameyw.easebar.com
 orangefoxgames.com
 orangegames.com
 orangegray.com
 orbitzgames.com
+orcas.gdc.nie.easebar.com
 orderofazeroth.org
 orderprocessor-public-service-ecomprod01.ol.epicgames.com
 ordspil.dk
@@ -7742,15 +7993,41 @@ otakumaker.com
 otterarchives.com
 ouarpzone.com
 ourstage.com
+outer-aws-jp-asr-gzailab.nie.easebar.com
+outer-aws-jp-english-asr-gzailab.nie.easebar.com
+outer-aws-sgp-voice-asr-e2e-gzailab.nie.easebar.com
+outer-aws-sgp-voice-multi-asr-gzailab.nie.easebar.com
+outer-aws-sgp-voice-verify.gzailab.nie.easebar.com
 outland.org
 outsidetheboxsoftware.com
 outwar.com
 ouverture-facile.com
+over-skyline-server.webapp.easebar.com
 overclic.com
 overgame.forumpro.fr
 overlay-override-service.cbce.live.on.epicgames.com
 overlay-override-service.fafe.dev.on.epicgames.com
 overlay.ubisoft.com
+oversea-api2-tokyo-001-console-server.nie.easebar.com
+oversea-api2-tokyo-002-console-server.nie.easebar.com
+oversea-api2-tokyo-003-console-server.nie.easebar.com
+oversea-api2-tokyo-004-console-server.nie.easebar.com
+oversea-api2-tokyo-010-console-server.nie.easebar.com
+oversea-api2-tokyo-011-console-server.nie.easebar.com
+oversea-api2-tokyo-012-console-server.nie.easebar.com
+oversea-api2-tokyo-013-console-server.nie.easebar.com
+oversea-api2-tokyo-014-console-server.nie.easebar.com
+oversea-api2-tokyo-015-console-server.nie.easebar.com
+oversea-api2-tokyo-016-console-server.nie.easebar.com
+oversea-api2-tokyo-017-console-server.nie.easebar.com
+oversea-k8s-proxy.edp-rc.everdev.easebar.com
+oversea-k8s-proxy.edp.everdev.easebar.com
+oversea-micro-api2-tokyo-001-console-server.nie.easebar.com
+oversea-micro-api2-tokyo-002-console-server.nie.easebar.com
+oversea-micro-api2-tokyo-003-console-server.nie.easebar.com
+oversea-micro-api2-tokyo-004-console-server.nie.easebar.com
+oversea-web-console.nie.easebar.com
+overseacert.oversea.nie.easebar.com
 owensworld.com
 own3d.tv
 oxford.goodforum.net
@@ -7902,6 +8179,7 @@ passatempo.ig.com.br
 passfieldgames.com
 passionforpuzzles.com
 passionwii.com
+passport-test.mpsdk.easebar.com
 password-contractors.ea.com
 password.ea.com
 pastaga.net
@@ -7976,6 +8254,8 @@ phantomcastle.it
 phantomempire.com
 phantomgames.net
 pharaonvallee.com
+pharos.easebar.com
+pharos.nie.easebar.com
 pharosgames.com
 phatgames.net
 phatnav.com
@@ -7992,6 +8272,7 @@ piensoyjuego.es
 piggyback.com
 pikifoo.com
 pikpokgames.com
+pimg.easebar.com
 pimp-world.com
 pimpempires.com
 pimpernel.com
@@ -8115,6 +8396,7 @@ playcosmic.com
 playcow.com
 playcrey.com
 playcrg.com
+playdestinyrising.v.easebar.com
 playdigger.com
 playdom.com
 playdosgamesonline.com
@@ -8224,6 +8506,7 @@ plusfuns.com
 plushiesandtoys.tripod.com
 pluto.tv
 plutoniumsoftware.com
+pm2hmtadmin.easebar.com
 pmanager.org
 pnflashgames.com
 pocket-monkey.com
@@ -8306,7 +8589,12 @@ portalui-dev.gamepass.com
 portalui-ppe.gamepass.com
 portalui.gamepass.com
 portalxd.com
+porter-gcp.g85naxx2gb.easebar.com
+porter-prerelease-gcp.g85naxx2gb.easebar.com
+porter.g85naxx2gb.easebar.com
 portesmonstrestresors.com
+poseidongcpjp.matrix.easebar.com
+poseidongcpus.matrix.easebar.com
 positech.co.uk
 postopia.com
 postparty-cdn-gamedev.gs.epicgames.com
@@ -8323,6 +8611,8 @@ poxworldempire.com
 pparcade.com
 pragen.net
 prd.orbit.bos.ea.com
+pre-http-proxy.kk3na.easebar.com
+pre-vlogs-loghub.gdc.nie.easebar.com
 prehackshub.com
 preprod.chef.x.origin.com
 preprod.satisfaction.gslog.ea.com
@@ -8353,6 +8643,7 @@ privatecatalog-ppe.gamepass.com
 privatecatalog.gamepass.com
 prizee.com
 probandopista.fullblog.com.ar
+probe.easebar.com
 prod-config-querier.infosec.on.epicgames.com
 prod.actual.battle.net
 prod.atlas.gryphon.battle.net
@@ -8405,6 +8696,7 @@ proxy.novafusion.ea.com
 proxy.novafusion.integration.ea.com
 proxylist.site
 proxyz.be
+ps.res.easebar.com
 ps3fanboy.com
 ps3gen.fr
 ps3scene.com
@@ -8444,6 +8736,7 @@ puppet.it.epicgames.com
 pupugames.com
 purefelinity.com
 puregamemedia.fr
+push.x.easebar.com
 pushtop.com
 putlocker-9.com
 putlocker-movies.me
@@ -8506,6 +8799,7 @@ qa.twinmotion-dev.it.epicgames.com
 qa.www.origin.com
 qa1.help.ea.com
 qa2.help.ea.com
+qaaccount.easebar.com
 qbgames.com
 qbris.com
 qhcf.net
@@ -8527,6 +8821,11 @@ questfortherest.com
 questroute.com
 quests-ppe.gamepass.com
 quests.gamepass.com
+queue-status-l32ena.easebar.com
+queue-status-pm2as.easebar.com
+queue-status-pm2hmt.easebar.com
+queue-status-pm2jp.easebar.com
+queue-status-pm2naxx1kr.easebar.com
 queue.battle.net
 quichante.com
 quick.games.free.fr
@@ -8546,6 +8845,7 @@ r6academy.ubi.com
 r6fix.ubi.com
 r6pcaddons.cdn.ubi.com
 raadhetwoord.nl
+rabbitmq-gcpjp.matrix.easebar.com
 rabbitmq.dc02.albion.zone
 rabbitmq.live01.albion.zone
 rabbitmq.live02.albion.zone
@@ -8564,6 +8864,7 @@ racing-games.org
 racinggames4u.com
 racinggames60.com
 racinghits.com
+racingmater.v.easebar.com
 radgametools.com
 radicalplay.com
 radio.com
@@ -8620,9 +8921,11 @@ realmstock.com
 realmud.com
 realore.com
 rebubbled.com
+rec.noah.nie.easebar.com
 recagames.com
 recap.eut.it.epicgames.com
 recap.it.epicgames.com
+recommend.webcampaign.easebar.com
 recreagame.com
 recrejeux.fr
 redballgame.net
@@ -8659,18 +8962,25 @@ render.staging01.albion.zone
 rendez-vous-jeux.fr
 rene-84.com
 rep.free.fr
+replay-pm2as.easebar.com
+replay-pm2hmt.easebar.com
+replay-pm2jp.easebar.com
+replay-pm2naxx1kr.easebar.com
 repo.steampowered.com
 repo.steamstatic.com
 reports.tools.gos.ea.com
 republic-online.net
 republik-dionysos.de
 repuls.io
+research-game.easebar.com
+research.easebar.com
 research.roblox.com
 residentevilcenter.net
 residentevilsh.com
 resort.org
 resource-api-prod.artpipeline-dev.it.epicgames.com
 resource-api.artpipeline-dev.it.epicgames.com
+resource.nie.easebar.com
 rest-lt1.ts4.eu.ea.com
 rest-mob.ts4.eu.ea.com
 rest-secure-lt1.ts4.eu.ea.com
@@ -8756,6 +9066,7 @@ rockstargames.com
 rod.org
 rodneysplace.com
 rohirrim.forumactif.com
+role.h65na.easebar.com
 roleplay-city.net
 roleplayinggames.net
 rom-world.com
@@ -8861,6 +9172,7 @@ s.team
 s1.i.m.ala.bz
 s11.i.m.ala.bz
 s13.i.m.ala.bz
+s2.easebar.com
 s2.i.m.ala.bz
 s2.quavergame.com
 s5.i.m.ala.bz
@@ -8950,6 +9262,8 @@ sda-admin.eut.it.epicgames.com
 sda-admin.it-entapps-dev.epicgames.com
 sda-admin.it.epicgames.com
 sda-admin.stage.it.epicgames.com
+sdc.dataservice.easebar.com
+sdk-cn.mpsdk.easebar.com
 se-network.de
 sea.api.battle.net
 sea.battle.net
@@ -8990,6 +9304,7 @@ serial-gamer.com
 serialgamer.com
 serragames.com
 servc.eu
+serverdump.nie.easebar.com
 servergamers.com
 serverstatus.live01.albion.zone
 serverstatus.live02.albion.zone
@@ -9032,6 +9347,7 @@ sg-r6fix.ubi.com
 sg-r6vh.ubi.com
 sg-univers.fr
 sgames.org
+sgfp.ps.easebar.com
 sgsgames.com
 sgtools.info
 sgwg.net
@@ -9099,6 +9415,7 @@ sideband.on.epicgames.com
 sideband.pulse.on.epicgames.com
 sierra.com
 siftheads.org
+sigma-performance-test.proxima.nie.easebar.com
 sigma-performance-x20na.proxima.nie.easebar.com
 signiant.dam.ea.com
 signiant.test.dam.ea.com
@@ -9147,6 +9464,9 @@ simsstoreportal.novacommerce.integration.ea.com
 simulworld.com
 simviation.com
 sinfin.ubi.com
+singapore-asiasoutheast-replayclient-x20na.easebar.com
+singapore-asiasoutheast-replayclientloadtest-x20na.easebar.com
+singapore-asiasoutheast-replayclienttest-x20na.easebar.com
 sinuousgame.com
 sip.contractor.ea.com
 sip.ea.com
@@ -9219,6 +9539,8 @@ smashing.com
 smashingames.com
 smashinggames.com
 smashkarts.io
+smc-summer-global-backup1.everdev.easebar.com
+smc-summer-global.everdev.easebar.com
 smetrics.ubi.com
 smileygamer.com
 smileys-war.com
@@ -9342,6 +9664,22 @@ special-garcons.com
 specialist-games.com
 specialmoves.com
 speculararts.com
+speed-anniversary-hmt-2024.edp-rc.everdev.easebar.com
+speed-anniversary-hmt-2024.edp.everdev.easebar.com
+speed-live.edp-rc.everdev.easebar.com
+speed-live.edp.everdev.easebar.com
+speed-mumu-sidebar.edp-rc.everdev.easebar.com
+speed-mumu-sidebar.edp.everdev.easebar.com
+speed-s5na.everdev.easebar.com
+speed-spring-badge-collect.everdev.easebar.com
+speed-spring-racer-festival-jp.edp-rc.everdev.easebar.com
+speed-spring-racer-festival-jp.edp.everdev.easebar.com
+speed-spring-racer-festival.edp-rc.everdev.easebar.com
+speed-spring-racer-festival.edp.everdev.easebar.com
+speed-spring-reunion-invitation-hmt.everdev.easebar.com
+speed-summary-2023-hmt.everdev.easebar.com
+speed-team-jp.edp-rc.everdev.easebar.com
+speed-team-jp.edp.everdev.easebar.com
 speedballgame.com
 speedgames.com
 speedgamez.com
@@ -9673,6 +10011,7 @@ strategyinformer.com
 stratozor.com
 stream-it.online
 stream.dam.ea.com
+stream.noah.nie.easebar.com
 stream.test.dam.ea.com
 streetchallenge.info
 streetracersonline.com
@@ -9751,6 +10090,9 @@ surf6009.appspot.com
 surf702.appspot.com
 surgerygames.org
 suricate-software.com
+survey-game-int.easebar.com
+survey-game.easebar.com
+survey.easebar.com
 surviv.io
 survivor.pocketgems.com
 sushib.com
@@ -9853,6 +10195,7 @@ taupinsdabord.com
 tawfiq-aliyah.co.uk
 tazgames.com
 tchatche.be
+tcinfra.nie.easebar.com
 tcs-int.ea.com
 tdrgame.free.fr
 teachwithportals.com
@@ -9886,6 +10229,11 @@ teknoconsolas.info
 telecharger-videos-youtube.com
 telechargerunevideo.com
 teleport.dead.dev.use1a.on.epicgames.com
+teleport.l33hmt.leihuo.easebar.com
+teleport.l33qahmt.leihuo.easebar.com
+teleport.l33qasg.leihuo.easebar.com
+teleport.l33qaus.leihuo.easebar.com
+teleport.l33sg.leihuo.easebar.com
 telescopeai-dev.on.epicgames.com
 telescopeai.on.epicgames.com
 teletoon.com
@@ -9908,14 +10256,25 @@ terres-divines.com
 territory.ru
 tes-jeux.com
 tesjeux.com
+test-oversea-api2-tokyo-011-console-server.nie.easebar.com
+test-oversea-micro-api2-tokyo-001-console-server.nie.easebar.com
+test-oversea-web-console.nie.easebar.com
+test-serverdump.nie.easebar.com
 test-site-ap-s3.art-pipeline-dev-us-east-1.it.epicgames.com
 test.actual.battle.net
 test.beta.dam.ea.com
 test.brand.ea.com
+test.buff.easebar.com
 test.dam.ea.com
+test.gdl.easebar.com
 test.gwpapi.ea.com
+test.public.easebar.com
 test.reports.tools.gos.ea.com
+test.s2.easebar.com
 testarea.monstersgame.co.uk
+testing.hubble.nie.easebar.com
+testing.research.easebar.com
+testing.survey-game.easebar.com
 testrail.it.epicgames.com
 testrail.stage.it.epicgames.com
 tetris-gratuit.com
@@ -10177,6 +10536,8 @@ toutouland.net
 toutporno.com
 toutsurlamoto.com
 tower-defense.com
+tower-ovs.easebar.com
+tower.easebar.com
 towerdefence.biz
 towerdefence.net
 towerdefensegames247.com
@@ -10197,6 +10558,8 @@ transbuddha.com
 transfer.ea.com
 transformersgame.com
 transience.com.au
+translate-origin.mpsdk.easebar.com
+translate.mpsdk.easebar.com
 translation.steampowered.com
 trap.it.epicgames.com
 travian.cl
@@ -10264,6 +10627,7 @@ tubeunblock.org
 tubia.com
 tucajogos.com.br
 tujuega.com
+tuku.easebar.com
 tunnelbear.com
 turbogames.com
 turbojuegos.com
@@ -10293,8 +10657,22 @@ twoplayergames2.com
 twotowersgames.com
 tycoongames.net
 tycoononline.nu
+tym-pm2as.easebar.com
+tym-pm2hmt-test.easebar.com
+tym-pm2hmt.easebar.com
+tym-pm2jp.easebar.com
+tym-pm2naxx1kr.easebar.com
 tza.red
 u2flashgame.com
+u5na-14.gph.easebar.com
+u5na-asianormal-ms-out-online.easebar.com
+u5na-asiastress-ms-out-online.easebar.com
+u5na-brazilnormal-ms-out-online.easebar.com
+u5na-image-ms-out-online.easebar.com
+u5na-ms-asiatest-oversea-istio-innerweb.easebar.com
+u5na-usimage-ms-out-online.easebar.com
+u5naxx2eu-udataresys.nie.easebar.com
+u5naxx2us-udataresys.nie.easebar.com
 uam-dev-proxy.on.epicgames.com
 uat-cn-public-ubiservices.ubi.com
 uat-delegation-ubiservices.dsproxy.ubi.com
@@ -10316,7 +10694,10 @@ ubsg.webs.com
 ucanplay.com
 ucip.org
 ucupdates-r2.ea.com
+udata-global.nie.easebar.com
+udata.nie.easebar.com
 udn.epicgames.com
+uds-data.nie.easebar.com
 ue-deadline-docs.art-pipeline-dev-us-east-1.it.epicgames.com
 ue-launcher-website-prod.ol.epicgames.com
 ue5help.epicgames.com
@@ -10398,6 +10779,9 @@ underzone.org
 unfair-mario.com
 unfairmariogames.com
 ungrounded.net
+unifix-14.gdl.easebar.com
+unisdk.nie.easebar.com
+unisec.nie.easebar.com
 unispy.org
 united-gamers.fr
 united-german-crew.de
@@ -10419,6 +10803,9 @@ unrealengine.com
 unrealenginehelp.epicgames.com
 unrealstudio.epicgames.com
 unrealstudiohelp.epicgames.com
+unveil-the-world.v.easebar.com
+update.nie.easebar.com
+update.unisdk.easebar.com
 upjers.com
 upjuegos.com
 uplay.ubi.com
@@ -10534,8 +10921,11 @@ utas.stage.s3.fut.ea.com
 utas.stage.s4.fut.ea.com
 utas.x360cert2.fut.ea.com
 uts.ubi.com
+uu.gdl.easebar.com
+uu.update.easebar.com
 uvscg.free.fr
 uweb.webzzanine.net
+ux.leihuo.easebar.com
 uzinagaz.com
 v-schlachtfeld.net
 v10.events.data.microsoft.com
@@ -10576,6 +10966,10 @@ vault.substrate.on.epicgames.com
 vdp2.free.fr
 vectorflash.com
 vectorpark.com
+vega-ui-nie-gcp.gdc.nie.easebar.com
+vega-ui-nie-gcp.nie.easebar.com
+vega.gdc.nie.easebar.com
+vega.nie.easebar.com
 vegads-media.com
 vegas-infos.de
 vegascasinoonline.com
@@ -10587,6 +10981,7 @@ venetian.com
 venge.io
 ventejeuxvideo.com
 ventoline.com
+venus.matrix.easebar.com
 venusarcade.com
 veojuegos.com
 veravegas.com
@@ -10791,8 +11186,11 @@ web-jeux.be
 web-proxy.site
 web.icq.com
 web2mail.com
+webapi.armis.pm2jp.easebar.com
 webchat.ea.com
+webconsole.nie.easebar.com
 webcrosswords.com
+webgame.appdump.nie.easebar.com
 webgame.cz
 webgame.nuxit.net
 webgameawards.com
@@ -10834,6 +11232,8 @@ weltenwanderung.com
 wepc.com
 weplayflash.fr
 weplayhere.com
+werewolf.netvios.easebar.com
+werewolftest.netvios.easebar.com
 wet-hot-american-summer-2001-stream-free.wikidot.com
 weymery.com
 wgamers.net
@@ -10843,6 +11243,7 @@ whatshouldisteam.com
 whatsinsidetheorangebox.com
 whdownload.com
 wheelsrepair.com
+wherewindsmeetgame.v.easebar.com
 who.easebar.com
 who.nie.easebar.com
 whoami.nie.easebar.com
@@ -10906,6 +11307,7 @@ wookz.com
 woolythinking.com
 wordox.fr
 workday-eaauth.ea.com
+worker.dreammaker.easebar.com
 world-of-dungeons.de
 world-of-dungeons.fr
 world-of-dungeons.net
@@ -11128,9 +11530,16 @@ x-kings.com
 x-pressive.com
 x-wars.net
 x-woods.com
+x20-14.gdl.easebar.com
+x20collect-prod.nie.easebar.com
+x20na-14.gdl.easebar.com
+x20na-14.gph.easebar.com
 x20na.appdump.nie.easebar.com
 x20na.gph.easebar.com
 x20na.update.easebar.com
+x20replay-um-test.fp.ps.easebar.com
+x20replay01-ovs-test.fp.ps.easebar.com
+x20replay01-ovs.fp.ps.easebar.com
 x3.shinobi.jp
 x3mgames.com
 x4.shinobi.jp
@@ -11200,6 +11609,8 @@ xv.battle.net
 xvmanager.com
 xwars.com
 xwars.fr
+xyq-service-gcp.easebar.com
+xyq-service.easebar.com
 xyx001.com
 xyx007.com
 y10.co
