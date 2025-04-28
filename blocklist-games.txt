@@ -1338,6 +1338,7 @@ casualmob.com
 catalog-beta.gamepass.com
 catalog-dev.gamepass.com
 catalog-ppe.gamepass.com
+catalog-public-service-prod.ak.epicgames.com
 catalog-public-service-prod06.ol.epicgames.com
 catalog.gamepass.com
 catmario.net
@@ -1561,6 +1562,7 @@ clodogame.fr
 cloud-origin.steampowered.com
 cloud.dead.dev.use1a.on.epicgames.com
 cloud.on.epicgames.com
+cloudflare.epicgamescdn.com
 cloudflare.prodstaging.store.epicgames.com
 cloudsync.dm.origin.com
 clowngames.com
@@ -1646,6 +1648,7 @@ confluence.it.epicgames.com
 confluence.operations.it.epicgames.com
 confluence.roblox.com
 confluence.stage.it.epicgames.com
+connect.epicgames.dev
 connect.origin.com
 connect.ubisoft.com
 conqblade.com
@@ -2532,6 +2535,7 @@ enigmyster.com
 enlh.com
 enterjuegos.com
 entertainmail.net
+entitlement-public-service-prod.ak.epicgames.com
 entitlement-public-service-prod08.ol.epicgames.com
 entrechats.fr
 envy.com
@@ -3417,6 +3421,7 @@ freshgamer.com
 freshgames.net
 freshnewgames.com
 freshpuzzles.com
+friends-public-service-prod.ak.epicgames.com
 friends-public-service-prod06.ol.epicgames.com
 friends.dm.origin.com
 friends.gs.ea.com
@@ -6642,6 +6647,7 @@ lastexitflucht.org
 lasthalfofdarkness.com
 lategames.com
 latingames.com
+launcher-public-service-prod.ak.epicgames.com
 launcher-public-service-prod06.ol.epicgames.com
 launcher-website-prod07.ol.epicgames.com
 launcher.store.epicgames.com
@@ -6753,6 +6759,7 @@ lh3na-opsapi.leihuo.easebar.com
 lhr-edge.ea.com
 lhr-webapp.ea.com
 lhr-webconf.ea.com
+library-service.live.use1a.on.epicgames.com
 licensee-mgmt-portal-okta.eut.it.epicgames.com
 licensee-mgmt-portal-okta.it-entapps-dev.epicgames.com
 licensee-mgmt-portal-okta.it.epicgames.com
@@ -6771,6 +6778,7 @@ ligaf1pit-lane.com
 lightforce.freestuff.gr
 lightning-games.com
 lightningamer.com
+lightswitch-public-service-prod.ak.epicgames.com
 lightswitch-public-service-prod06.ol.epicgames.com
 lil-life.com
 lilgames.com
@@ -6795,6 +6803,9 @@ liquidgeneration.com
 list.easebar.com
 listerr.nie.easebar.com
 littleshinyobjects.com
+live01-win-status.dc02.albion.zone
+live02-win-status.sg.albion.zone
+live03-win-status.ams.albion.zone
 live360.fr
 livebackgammon.de
 livecanasta.de
@@ -6829,6 +6840,7 @@ login.footcup.fr
 login.leagueoflegends.com
 login.steampowered.com
 loginiwa.ea.com
+loginserver.live.albion.zone
 loglod.com
 loisirsjeux10.free.fr
 lojrafalasonline.com
@@ -7750,6 +7762,7 @@ note2self.co.uk
 nothingtodo.co.uk
 notice.webcampaign.easebar.com
 notification-center-demo-npm.epicgames.com
+notificationinbox.xboxlive.com
 notifications-pusher.gog.com
 notify.gameservices.ea.com
 notify.integration.gameservices.ea.com
@@ -8620,6 +8633,7 @@ presence-internal-service-lt.social.dev.on.epicgames.com
 presence-internal-service-prod.social.live.on.epicgames.com
 presence-internal-service-stage.social.dev.on.epicgames.com
 presence-public-service-lt.social.dev.on.epicgames.com
+presence-public-service-prod.ol.epicgames.com
 presence-public-service-prod.social.live.on.epicgames.com
 presence-public-service-stage.social.dev.on.epicgames.com
 presence.roblox.com
@@ -8627,6 +8641,7 @@ pressplay.dk
 pressureforsteam.com
 preview-vassets.ea.com
 priceengine-public-service-ecomprod01.ol.epicgames.com
+priceengine-public-service-prod.ak.epicgames.com
 prijsjerijk.nl
 primalgame.com
 primarygames.com
@@ -9873,6 +9888,7 @@ stats.e2etest.gameservices.ea.com
 stats.gameservices.ea.com
 stats.int.gameservices.ea.com
 stats.qa-dev.gameservices.ea.com
+status.albiononline.com
 status.discordapp.com
 status.epicgames.com
 status.leagueoflegends.com
