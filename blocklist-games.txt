@@ -500,6 +500,7 @@ api-jarvis-storage.nie.easebar.com
 api-office.db.nie.easebar.com
 api-ubiservices.ubi.com
 api.accounts.nintendo.com
+api.albiononline.com
 api.appdump.x.easebar.com
 api.detect.nie.easebar.com
 api.easyanticheat.net
@@ -705,6 +706,7 @@ asit.riverdark.net
 asmodee.com
 assetdelivery.roblox.com
 assetgame.roblox.com
+assets.albiononline.com
 assets.staging01.albion.zone
 assets.xbox.com
 astatix.com
@@ -1537,9 +1539,11 @@ clearahill.com
 clegion.hut2.ru
 clevermedia.com
 clicjeux.net
+click.albiononline.com
 clickcode.fr
 clickerheroes-savedgames3-747864888.us-east-1.elb.amazonaws.com
 clickerheroes.com
+clickeu.albiononline.com
 clickgamer.com
 clickhere.nl
 clickjogos.bol.uol.com.br
@@ -1679,6 +1683,7 @@ content.ea.com
 content.ts4.eu.ea.com
 continentsmud.com
 contractwarsgame.com
+control.albiononline.com
 controller.steampowered.com
 controllers.xbox.com
 controltower.ea.com
@@ -1772,6 +1777,7 @@ create-epic-kitt-react.fnsocial.on.epicgames.com
 create.roblox.com
 creativo.fr
 creator.roblox.com
+creators.albiononline.com
 creaturz.com
 creepsmash.com
 crest.ea.com
@@ -3226,6 +3232,7 @@ fortnitecontent-website-prod07.ol.epicgames.com
 fortnitehelp.epicgames.com
 fortnitewaitingroom-public-service-stage.ol.epicgames.com
 forum-api.staging01.albion.zone
+forum.albiononline.com
 forum.ea.com
 forum.fear-mornieo.org
 forum.staging01.albion.zone
@@ -3479,6 +3486,7 @@ fs.s2.stage.fwm.ea.com
 fsn.flightsimnetwork.com
 fsw.simflight.com
 ftlgame.com
+ftp.albiononline.com
 fueps.com
 fukgames.com
 fullgames.cz
@@ -3856,6 +3864,8 @@ gamehtml5.net
 gameinabottle.com
 gameinacan.com
 gameinferno.fr
+gameinfo-sgp.albiononline.com
+gameinfo.albiononline.com
 gameinfo.staging01.albion.zone
 gameinfo.staging02.albion.zone
 gameinformer.com
@@ -5299,13 +5309,17 @@ ilovewargameing.21.forumer.com
 images-eds.xboxlive.com
 images-ext-1.discordapp.net
 images-ext-2.discordapp.net
+images.albiononline.com
 images.aventuria.com
 images.beta.ea.com
 images.ea.com
 images.staging01.albion.zone
 images.thepostgame.com
+imap.albiononline.com
 img.beta.dam.ea.com
 img.dam.ea.com
+img.sib1.albiononline.com
+img.sib2.albiononline.com
 img.test.beta.dam.ea.com
 img.test.dam.ea.com
 img160.exs.cx
@@ -5358,6 +5372,7 @@ ingest.hostman.ci.adda.dev.use1a.on.epicgames.com
 ingest.hostman.livefn.adad.live.use1a.on.epicgames.com
 ingest.hostman.prod.adad.live.use1a.on.epicgames.com
 ingest.hostman.stage.adda.dev.use1a.on.epicgames.com
+ingress.albiononline.com
 initiative-jdr.com
 injuegos.com
 inkagames.com
@@ -6412,6 +6427,7 @@ khovsgol.free.fr
 khurrad.de
 kibagames.com
 kibana-chat.office.albion.zone
+kibana.albiononline.com
 kibana.office.albion.zone
 kid2play.com
 kidadoweb.com
@@ -6803,6 +6819,7 @@ liquidgeneration.com
 list.easebar.com
 listerr.nie.easebar.com
 littleshinyobjects.com
+live.albiononline.com
 live01-win-status.dc02.albion.zone
 live02-win-status.sg.albion.zone
 live03-win-status.ams.albion.zone
@@ -6990,6 +7007,7 @@ mahjonggratuit.net
 mahjonggratuit.org
 mahjongjeux.com
 maidmarian.com
+mail.albiononline.com
 mail.epicgames.com
 mailhost.ea.com
 mailing.astuclic.com
@@ -7050,6 +7068,7 @@ marioparty4.com
 marioparty5.com
 mariosmythology.com
 mariounblocked.com
+marketing.albiononline.com
 marketjs.com
 marketplace-website-node-launcher-prod.ol.epicgames.com
 marketplace.tf
@@ -8206,6 +8225,7 @@ pausenspiele.net
 pausespill.no
 pauzicka.zoznam.sk
 payment-website-pci.ol.epicgames.com
+payment.albiononline.com
 payments.albion.zone
 payments.live01.albion.zone
 payments.playground01.albion.zone
@@ -8366,6 +8386,7 @@ play-free-online-games.net
 play-happy.net
 play-mahjong.org
 play-tetris-online.com
+play.albiononline.com
 play.barbie.com
 play.clubpenguin.com
 play.de
@@ -8574,6 +8595,7 @@ ponystars.com
 ponyvalley.fr
 poolgame.co.uk
 poolsharks.com
+pop.albiononline.com
 poparcade.net
 popcap.com
 popcorntv.fr
@@ -8697,6 +8719,7 @@ prometheus-usw1.rtcp.on.epicgames.com
 prometheus-usw2.rtcp.on.epicgames.com
 prometheus.aabe.live.use1a.on.epicgames.com
 prometheus.feec.dev.use1a.on.epicgames.com
+promo.albiononline.com
 promu.fr
 pronoderby.net
 pronosoft.com
@@ -8855,6 +8878,8 @@ quizzyflash.net
 quizzz.com
 quoverbis.com
 r.res.easebar.com
+r.sib1.albiononline.com
+r.sib2.albiononline.com
 r2games.com
 r6academy.ubi.com
 r6fix.ubi.com
@@ -8968,11 +8993,13 @@ reignofchaos.forum2jeux.com
 reignofforce.sourceforge.net
 reinoslegendarios.com
 reise-quiz.de
+relay.albiononline.com
 relite.org
 reloaded.org
 remote-config.gog.com
 remotework.epicgames.com
 renaissancekingdoms.com
+render.albiononline.com
 render.staging01.albion.zone
 rendez-vous-jeux.fr
 rene-84.com
@@ -9577,6 +9604,7 @@ smtp-11-tuk1.steampowered.com
 smtp-12-tuk1.steampowered.com
 smtp-13-tuk1.steampowered.com
 smtp-14-tuk1.steampowered.com
+smtp.albiononline.com
 smtp.steampowered.com
 snake-game.com
 snakegame.net
@@ -9836,6 +9864,7 @@ stage.secure.download.dm.origin.com
 stage.sso.origin.com
 stage.www.origin.com
 staggan.com
+staging.albiononline.com
 star-conflict.com
 star-fleet.com
 star-wars-univers.xooit.com
@@ -10288,6 +10317,7 @@ test.public.easebar.com
 test.reports.tools.gos.ea.com
 test.s2.easebar.com
 testarea.monstersgame.co.uk
+testing.albiononline.com
 testing.hubble.nie.easebar.com
 testing.research.easebar.com
 testing.survey-game.easebar.com
@@ -11269,6 +11299,7 @@ wickedgoodgames.com
 wiibrew.org
 wiilovemario.com
 wiiplayable.com
+wiki.albiononline.com
 wiki.roblox.com
 wiki.staging01.albion.zone
 wikia.com
@@ -11416,6 +11447,7 @@ wwekids.com
 www.a10.com
 www.achievementstats.com
 www.aiononline.com
+www.albiononline.com
 www.allkeyshop.com
 www.backloggery.com
 www.battle.net
@@ -11512,6 +11544,7 @@ www.sgtools.info
 www.shop.ubi.com
 www.sitegeek.fr
 www.staging01.albion.zone
+www.status.albiononline.com
 www.steamcardexchange.net
 www.steamcompletionist.net
 www.steamgifts.com
