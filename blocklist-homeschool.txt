@@ -278,6 +278,7 @@ l1-uat.fb.com
 l1-usdev.fb.com
 l1-uspreprod.fb.com
 l1-usuat.fb.com
+latency.discord.media
 ldnlab.fb.com
 ldnlabcreators.fb.com
 learn-us-dev.fb.com
@@ -624,6 +625,7 @@ ru.facebookbrand-release.fb.com
 s.twitchcdn.net
 sage.twitchcdn.net
 search.fb.com
+seattle2780.discord.media
 secure.facebook.com
 seformer.fb.com
 sheleadstechin.fb.com
